@@ -110,14 +110,14 @@ const features = [
 const quotes = [
   {
     image:
-      "https://raw.githubusercontent.com/shecodesvietnam/asserts/master/2020/staffs/HN/Director_Mai_Phuong_Thuy_Tien.jpg",
+      "https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/staffs/HN/Director_Mai_Phuong_Thuy_Tien.jpg",
     quote:
       "Khi các bên đối tác hỏi SheCodes rằng liệu có đủ phái nữ thích công nghệ để mà thực hiện chương trình không thì câu trả lời sẽ luôn là có. Luôn có một nguồn nhân lực nữ đam mê tự học về IT, say sưa với từng dòng code, nhưng đơn giản là họ chưa tìm thấy đất dụng võ cho mình. SheCodes sẽ tạo ra một network để nữ giới phá bỏ các rào cản cá nhân và xã hội để can trường dấn thân vào lĩnh vực công nghệ này.",
     footer: "Mai Phương Thủy Tiên (Director of SheCodes Vietnam)",
   },
   {
     image:
-      "https://raw.githubusercontent.com/shecodesvietnam/asserts/master/2020/staffs/HN/PM_Nguyen_Huyen_My.jpg",
+      "https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/staffs/HN/PM_Nguyen_Huyen_My.jpg",
     quote:
       "Trong quá trình phát triển SheCodes Việt Nam, có vài câu hỏi đặt ra rằng “Tại sao SheCodes, không phải HeCodes? Các bạn có đang tự phân biệt đối xử và đánh rơi cơ hội của các giới khác?” Tại SheCodes, không có bất kỳ nỗ lực nào được dành ra nhằm tạo sự thiên vị cho một giới nhất định, 50% mentors của chúng tôi là nam giới. Nỗ lực của SheCodes Việt Nam sẽ dành cho mục tiêu tôn trọng và tạo điều kiện để mỗi người tự do làm điều mình thích, phù hợp với khả năng và bản năng từng người dù họ thuộc giới nào trong lĩnh vực Công nghệ thông tin. Thấu hiểu được những khó khăn và muôn vàn trở ngại, bất kể bạn là nam hay nữ, thành thị hay nông thôn, đến với SheCodes, chúng tôi sẽ cùng bạn chắp cánh ước mơ, khẳng định bản thân và thực hiện sứ mệnh của mình." 
     ,
@@ -125,7 +125,7 @@ const quotes = [
   },
   {
     image:
-      "https://raw.githubusercontent.com/shecodesvietnam/asserts/master/2020/staffs/HN/PM_Nguyen_Vu_Ngan_Ha.jpg",
+      "https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/staffs/HN/PM_Nguyen_Vu_Ngan_Ha.jpg",
     quote:
       "Chỉ cần có định hướng và những cơ hội phù hợp, phái nữ có thể tiến xa hơn bất kì ai. Vì vậy, tôi tin Tech Marathon là một chương trình có thể đem đến cơ hội và sự định hướng đó cho những bạn nữ - nhất là những người đang phân vân giữa những ngã rẽ nghề nghiệp, giúp họ tự tin hơn để theo đuổi ngành công nghệ thông tin.",
     footer: "Nguyễn Vũ Ngân Hà (Head of Tech Marathon) - Hà Nội",
