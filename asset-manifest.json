@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/shecode-website-react/static/css/main.904bbd33.chunk.css",
-    "main.js": "/shecode-website-react/static/js/main.002072d9.chunk.js",
-    "main.js.map": "/shecode-website-react/static/js/main.002072d9.chunk.js.map",
-    "runtime-main.js": "/shecode-website-react/static/js/runtime-main.8e5b0923.js",
-    "runtime-main.js.map": "/shecode-website-react/static/js/runtime-main.8e5b0923.js.map",
-    "static/js/2.4a01bd8c.chunk.js": "/shecode-website-react/static/js/2.4a01bd8c.chunk.js",
-    "static/js/2.4a01bd8c.chunk.js.map": "/shecode-website-react/static/js/2.4a01bd8c.chunk.js.map",
-    "index.html": "/shecode-website-react/index.html",
-    "precache-manifest.0512ac188423f3eb9ae4d2057947df8a.js": "/shecode-website-react/precache-manifest.0512ac188423f3eb9ae4d2057947df8a.js",
-    "service-worker.js": "/shecode-website-react/service-worker.js",
-    "static/css/main.904bbd33.chunk.css.map": "/shecode-website-react/static/css/main.904bbd33.chunk.css.map",
-    "static/js/2.4a01bd8c.chunk.js.LICENSE.txt": "/shecode-website-react/static/js/2.4a01bd8c.chunk.js.LICENSE.txt",
-    "static/media/icon-font.css": "/shecode-website-react/static/media/linea-basic-10.e6763f00.ttf"
+    "main.css": "/shecode-website/static/css/main.0537f904.chunk.css",
+    "main.js": "/shecode-website/static/js/main.5386fca2.chunk.js",
+    "main.js.map": "/shecode-website/static/js/main.5386fca2.chunk.js.map",
+    "runtime-main.js": "/shecode-website/static/js/runtime-main.54015382.js",
+    "runtime-main.js.map": "/shecode-website/static/js/runtime-main.54015382.js.map",
+    "static/js/2.e233da88.chunk.js": "/shecode-website/static/js/2.e233da88.chunk.js",
+    "static/js/2.e233da88.chunk.js.map": "/shecode-website/static/js/2.e233da88.chunk.js.map",
+    "index.html": "/shecode-website/index.html",
+    "precache-manifest.594695159077a083957075d7f63d5d8d.js": "/shecode-website/precache-manifest.594695159077a083957075d7f63d5d8d.js",
+    "service-worker.js": "/shecode-website/service-worker.js",
+    "static/css/main.0537f904.chunk.css.map": "/shecode-website/static/css/main.0537f904.chunk.css.map",
+    "static/js/2.e233da88.chunk.js.LICENSE.txt": "/shecode-website/static/js/2.e233da88.chunk.js.LICENSE.txt",
+    "static/media/icon-font.css": "/shecode-website/static/media/linea-basic-10.e6763f00.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e5b0923.js",
-    "static/js/2.4a01bd8c.chunk.js",
-    "static/css/main.904bbd33.chunk.css",
-    "static/js/main.002072d9.chunk.js"
+    "static/js/runtime-main.54015382.js",
+    "static/js/2.e233da88.chunk.js",
+    "static/css/main.0537f904.chunk.css",
+    "static/js/main.5386fca2.chunk.js"
   ]
 }
