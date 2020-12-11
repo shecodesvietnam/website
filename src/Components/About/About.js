@@ -243,7 +243,7 @@ const About = (props) => {
           <AboutColumn className="col-1-of-2">
             <AboutItemHeader>VỀ HACKATHON</AboutItemHeader>
             <AboutItemParagraph>SheCodes Vietnam Hackathon là một cuộc thi giúp phái nữ nhận thức được tầm quan trọng của công nghệ thông tin trong việc giải quyết những vấn đề xã hội và sức mạnh của công nghệ trong việc tạo nên ảnh hưởng tích cực tới cộng đồng. Sau 3 năm tổ chức, SheCodes Hackathon đã thu hút hơn 6000 người quan tâm, hơn 300 đội thi và hơn 40 ý tưởng khởi nghiệp được ấp ủ.</AboutItemParagraph>
-            <RegistrationButton href="https://docs.google.com/forms/d/e/1FAIpQLSfSLJ8l2dbgT1aM_IgFe-ja3DWZG0KKSOBRlWQslaMNkQKmAA/viewform">ĐĂNG KÝ THAM GIA HACKATHON</RegistrationButton>
+            {/* <RegistrationButton href="https://docs.google.com/forms/d/e/1FAIpQLSfSLJ8l2dbgT1aM_IgFe-ja3DWZG0KKSOBRlWQslaMNkQKmAA/viewform">ĐĂNG KÝ THAM GIA HACKATHON</RegistrationButton> */}
         </AboutColumn>
         </AboutRow>
       </AboutHackathonBox>
