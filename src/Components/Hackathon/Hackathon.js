@@ -1140,38 +1140,33 @@ const speakers_hcm = [
   {
     name: "Madam Lien",
     title: "CEO LIAN, Investor Shark Tank Vietnam",
-    image:
-      "https://shecodesvietnam.github.io/shecodes-all-pages-2020/assets/madam-lien.jpg",
+    image: githubRawAsserts + "speaker/hcm/madam-lien.jpg",
   },
   {
     name: "Mr. Tran Vu Anh",
     title: "CTO Waves8",
-    image: githubRawAsserts + "speaker/hcm/tran_vu_anh.jpg",
+    image: githubRawAsserts + "speaker/hcm/tran-vu-anh.jpg",
   },
   {
     name: "Mr. Ly Quang Huy",
     title: "CTO Iot Gaming Vietnam",
-    image:
-      "https://shecodesvietnam.github.io/shecodes-all-pages-2020/assets/ly-quang-huy.jpg",
+    image: githubRawAsserts + "speaker/hcm/ly-quang-huy.jpg",
   },
   {
     name: "Ms. Elisha Tan",
     title: "PM Facebook APAC - Founder TechLadies",
-    image:
-      "https://shecodesvietnam.github.io/shecodes-all-pages-2020/assets/elisha-tan.jpg",
+    image: githubRawAsserts + "speaker/hcm/elisha-tan.jpg",
   },
   {
     name: "Mr. Nguyen Sieu Dang",
     title:
       "Training director Master in IOT program FPT International Education",
-    image:
-      "https://shecodesvietnam.github.io/shecodes-all-pages-2020/assets/nguye-sieu-dang.jpg",
+    image: githubRawAsserts + "speaker/hcm/nguyen-sieu-dang.jpg",
   },
   {
     name: "Ms. Nguyen Thuy An",
     title: "Teacher at Facebook Developer Circles Innovation Challenge",
-    image:
-      "https://shecodesvietnam.github.io/shecodes-all-pages-2020/assets/nguye-thuy-an.jpg",
+    image: githubRawAsserts + "speaker/hcm/nguyen-thuy-an.jpg",
   },
   {
     name: "Mr. Nguyen Xuan Hiep",
