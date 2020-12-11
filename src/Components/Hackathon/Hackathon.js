@@ -11,7 +11,7 @@ import { Card } from "../Common/Card";
 import { SponsorsList } from "../Sponsors/Sponsors";
 
 const githubRawAsserts =
-  "https://raw.githubusercontent.com/shecodesvietnam/asserts/master/2020/";
+  "https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/";
 
 const HackathonBox = styled.div`
   margin: auto;
@@ -1218,7 +1218,7 @@ const Hackathon = (props) => {
         <VideoBox>
           <VideoIntro autoPlay muted loop>
             <source
-              src="https://shecodesvietnam.github.io/shecodes-all-pages-2020/assets/hackathon2020.mp4"
+              src="https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/media/hackathon2020.mp4"
               type="video/mp4"
             />
           </VideoIntro>
@@ -1287,7 +1287,7 @@ const Hackathon = (props) => {
         addition="
           background-image: 
             linear-gradient(to right, rgba(22, 22, 22, 0.8), rgba(0, 0, 0, 0.8)), 
-            url('https://shecodesvietnam.github.io/shecodes-all-pages-2020/assets/hackathon-mixed.png');
+            url('https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/media/hackathon-mixed.png');
           background-size: cover;
           background-position: top;
         "
@@ -1530,13 +1530,13 @@ const Hackathon = (props) => {
         </FlexBox>
       </GSBox>
       <SponsorsList />
-      {/* <article>
+      <article>
         <img
-          src="https://shecodesvietnam.github.io/shecodes-all-pages-2020/assets/B%C3%A0i%20bung.gif"
+          src="https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/media/B%C3%A0i%20bung.gif"
           alt="inspiration"
           style={{ display: "block", width: "100%" }}
         />
-      </article> */}
+      </article>
       <FAQsBox>
         <FAQsRow>
           <FAQsHeader>FAQS DÀNH CHO HACKATHON</FAQsHeader>
