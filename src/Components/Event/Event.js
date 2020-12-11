@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 import { HashLink as Link } from 'react-router-hash-link';
 
-const githubRawAsserts = "https://raw.githubusercontent.com/shecodesvietnam/asserts/master/";
+const githubRawAsserts = "https://raw.githubusercontent.com/shecodesvietnam/assets/master/";
 
 const EventBox = styled.div`
   margin: auto;

@@ -171,7 +171,7 @@ const HomePage = (props) => {
             to right bottom,
             rgba(22, 22, 22, 0.75),
             rgba(22, 22, 22, 0.75)
-          ), url('https://shecodesvietnam.github.io/shecodes-all-pages-2020/assets/hackathon-team-2018.jpg');
+          ), url('https://raw.githubusercontent.com/shecodesvietnam/assets/master/2018/hackathon/hackathon-team-2018.jpg');
           background-position: center;
           background-size: cover;
           position: relative;
@@ -424,7 +424,7 @@ const HomePage = (props) => {
         backgroundColor="#000"
         padding="15rem 0 15rem 0"
         addition="
-          background-image: linear-gradient(to right bottom, rgba(22, 22, 22, 0.75), rgba(22, 22, 22, 0.75)), url('https://shecodesvietnam.github.io/shecodes-all-pages-2020/assets/homepage-secondary.png');
+          background-image: linear-gradient(to right bottom, rgba(22, 22, 22, 0.75), rgba(22, 22, 22, 0.75)), url('https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/media/homepage-secondary.png');
           background-position: center;
           background-size: cover;
         "

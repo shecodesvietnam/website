@@ -2,7 +2,7 @@ import React from 'react';
 
 import styled from 'styled-components';
 
-const githubRawAsserts = "https://raw.githubusercontent.com/shecodesvietnam/asserts/master/";
+const githubRawAsserts = "https://raw.githubusercontent.com/shecodesvietnam/assets/master/";
 
 const AboutRow = styled.div`
   max-width: 114rem;

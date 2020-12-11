@@ -325,7 +325,7 @@ const generateStaffsComponent = (staffsMap) => {
           staffsRoleRowComponent.push(
             <StaffsColumn className="col-1-of-3" key={i + "_row_" + j}>
               <StaffsImageBox>
-                <StaffsImage alt={staff.name} src={"https://raw.githubusercontent.com/shecodesvietnam/asserts/master/2020/staffs/" + staff.image}/>
+                <StaffsImage alt={staff.name} src={"https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/staffs/" + staff.image}/>
               </StaffsImageBox>
               <StaffsName>{staff.name}</StaffsName>
               <StaffsRole>- {staff.content}</StaffsRole>

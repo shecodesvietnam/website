@@ -176,12 +176,12 @@ const contactMap = [
   {
     name: "MS. MAI PHUONG THUY TIEN",
     email: "tienmai.shecodes@gmail.com",
-    image: "https://raw.githubusercontent.com/shecodesvietnam/asserts/master/2020/staffs/HN/Director_Mai_Phuong_Thuy_Tien.jpg",
+    image: "https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/staffs/HN/Director_Mai_Phuong_Thuy_Tien.jpg",
   },
   {
     name: "MS. NGUYỄN HUYỀN MY",
     email: "huyenmy.shecodes@gmail.com",
-    image: "https://raw.githubusercontent.com/shecodesvietnam/asserts/master/2020/staffs/HN/PM_Nguyen_Huyen_My.jpg"
+    image: "https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/staffs/HN/PM_Nguyen_Huyen_My.jpg"
   }
 ]
 

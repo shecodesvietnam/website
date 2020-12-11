@@ -17,7 +17,7 @@ const MarathonHeaderImage = styled.div`
       rgba(22, 22, 22, 0.8),
       rgba(0, 0, 0, 0.8)
     ),
-    url("https://shecodesvietnam.github.io/shecodes-all-pages-2020/assets/precoding-1.png");
+    url("https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/media/precoding-1.png");
   background-position: center;
   background-size: cover;
   position: relative;
@@ -181,7 +181,7 @@ const MarathonProgressBox = styled.article`
       rgba(22, 22, 22, 0.8),
       rgba(0, 0, 0, 0.8)
     ),
-    url("https://shecodesvietnam.github.io/shecodes-all-pages-2020/assets/precoding-2.png");
+    url("https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/media/precoding-2.png");
   background-position: center;
   background-size: cover;
   padding-top: 15rem;
@@ -385,7 +385,7 @@ const MarathonForm = styled.article`
       rgba(22, 22, 22, 0.8),
       rgba(0, 0, 0, 0.8)
     ),
-    url("https://shecodesvietnam.github.io/shecodes-all-pages-2020/assets/precoding-3.jpg");
+    url("https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/media/precoding-3.jpg");
   background-position: 0% 35%;
   background-size: cover;
 `;

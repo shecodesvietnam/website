@@ -181,7 +181,7 @@ const NavBar = (props) => {
       <NavBarBox>
         <LogoBox>
           <Link to="/">
-            <Logo src="https://shecodesvietnam.github.io/homepage-2020/assets/logo-2020.png" alt="SheCodes Logo" onClick={() => setShow(false)}/>
+            <Logo src="https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/media/logo-2020.png" alt="SheCodes Logo" onClick={() => setShow(false)}/>
           </Link>
         </LogoBox>
         <NavBox>

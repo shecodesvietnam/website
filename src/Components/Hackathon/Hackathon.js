@@ -38,7 +38,7 @@ const HeaderBox = styled.div`
         rgba(22, 22, 22, 0.8),
         rgba(22, 22, 22, 0.8)
       ),
-      url("https://shecodesvietnam.github.io/shecodes-all-pages-2020/assets/Hackathon-image.png");
+      url("https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/media/Hackathon-image.png");
   }
 `;
 
@@ -251,7 +251,7 @@ const EvaluationParagraph = styled(PurposeParagraph)`
 `;
 
 const AgendaBox = styled.div`
-  background-image: url("https://shecodesvietnam.github.io/shecodes-all-pages-2020/assets/logodark.png");
+  background-image: url("https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/media/logodark.png");
   background-size: cover;
   background-position: top;
   padding-top: 15rem;

@@ -5,7 +5,7 @@ import styled from 'styled-components';
 import { FlexBox, Box } from '../Common/Box';
 import { NormalText } from '../Common/Text';
 
-const githubRawAsserts = "https://raw.githubusercontent.com/shecodesvietnam/asserts/master/2020/";
+const githubRawAsserts = "https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/";
 
 const PartnerBox = styled.div`
   background-color: #000;

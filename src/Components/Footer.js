@@ -197,7 +197,7 @@ const Footer = (props) => {
   return (
     <FooterBox>
       <FooterLogoBox>
-        <img src="https://shecodesvietnam.github.io/homepage-2020/assets/logo-2020.png" alt="SheCodes Logo"/>
+        <img src="https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/media/logo-2020.png" alt="SheCodes Logo"/>
       </FooterLogoBox>
       <Row>
         <div className="col-1-of-2">
