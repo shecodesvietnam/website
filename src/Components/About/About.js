@@ -175,44 +175,44 @@ const AboutHackathonBox = styled(AboutUsBox)`
   background-color: #161616;
 `;
 
-const RegistrationButton = styled.a`
-  display: inline-block;
-  text-transform: uppercase;
-  text-decoration: none;
-  font-size: 1.6rem;
-  padding: 1.5rem 4rem;
-  border-radius: 10rem;
-  transition: all 0.2s;
-  position: relative;
-  border: none;
-  cursor: pointer;
-  background-image: linear-gradient(to right, #e80872, #592368);
-  color: #fbfeff;
-  text-align: center !important;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-weight: 400;
-  line-height: 1.7;
-  @media only screen and (max-width: 37.5em) {
-    font-size: 1.2rem;
-    padding: 1rem 2rem; }
-  @keyframes moveInBottom {
-    0% {
-      opacity: 0;
-      transform: translateY(10rem); 
-    }
-    100% {
-      opacity: 1;
-      transform: translate(0); 
-    }
-  }
-  animation: moveInBottom 0.5s ease-out 0.75s;
-  animation-fill-mode: backwards;
-  &:hover, &:link, &visited, &:active {
-    text-decoration: none;
-    color: #fbfeff;
-  }
-  margin-top: 3rem;
-`;
+// const RegistrationButton = styled.a`
+//   display: inline-block;
+//   text-transform: uppercase;
+//   text-decoration: none;
+//   font-size: 1.6rem;
+//   padding: 1.5rem 4rem;
+//   border-radius: 10rem;
+//   transition: all 0.2s;
+//   position: relative;
+//   border: none;
+//   cursor: pointer;
+//   background-image: linear-gradient(to right, #e80872, #592368);
+//   color: #fbfeff;
+//   text-align: center !important;
+//   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+//   font-weight: 400;
+//   line-height: 1.7;
+//   @media only screen and (max-width: 37.5em) {
+//     font-size: 1.2rem;
+//     padding: 1rem 2rem; }
+//   @keyframes moveInBottom {
+//     0% {
+//       opacity: 0;
+//       transform: translateY(10rem); 
+//     }
+//     100% {
+//       opacity: 1;
+//       transform: translate(0); 
+//     }
+//   }
+//   animation: moveInBottom 0.5s ease-out 0.75s;
+//   animation-fill-mode: backwards;
+//   &:hover, &:link, &visited, &:active {
+//     text-decoration: none;
+//     color: #fbfeff;
+//   }
+//   margin-top: 3rem;
+// `;
 
 const About = (props) => {
   return (
