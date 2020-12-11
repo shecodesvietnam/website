@@ -1530,13 +1530,13 @@ const Hackathon = (props) => {
         </FlexBox>
       </GSBox>
       <SponsorsList />
-      <article>
+      {/* <article>
         <img
           src="https://shecodesvietnam.github.io/shecodes-all-pages-2020/assets/B%C3%A0i%20bung.gif"
           alt="inspiration"
           style={{ display: "block", width: "100%" }}
         />
-      </article>
+      </article> */}
       <FAQsBox>
         <FAQsRow>
           <FAQsHeader>FAQS DÀNH CHO HACKATHON</FAQsHeader>
