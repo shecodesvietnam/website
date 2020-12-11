@@ -37,7 +37,7 @@ const timer = () => {
 // TODO(vnvo2409): Add animation for button
 // const RegistrationButton = styled.a`
 //   display: inline-block;
-  // text-transform: uppercase;
+// text-transform: uppercase;
 //   text-decoration: none;
 //   font-size: 1.6rem;
 //   padding: 1.5rem 4rem;
@@ -119,9 +119,8 @@ const quotes = [
     image:
       "https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/staffs/HN/PM_Nguyen_Huyen_My.jpg",
     quote:
-      "Trong quá trình phát triển SheCodes Việt Nam, có vài câu hỏi đặt ra rằng “Tại sao SheCodes, không phải HeCodes? Các bạn có đang tự phân biệt đối xử và đánh rơi cơ hội của các giới khác?” Tại SheCodes, không có bất kỳ nỗ lực nào được dành ra nhằm tạo sự thiên vị cho một giới nhất định, 50% mentors của chúng tôi là nam giới. Nỗ lực của SheCodes Việt Nam sẽ dành cho mục tiêu tôn trọng và tạo điều kiện để mỗi người tự do làm điều mình thích, phù hợp với khả năng và bản năng từng người dù họ thuộc giới nào trong lĩnh vực Công nghệ thông tin. Thấu hiểu được những khó khăn và muôn vàn trở ngại, bất kể bạn là nam hay nữ, thành thị hay nông thôn, đến với SheCodes, chúng tôi sẽ cùng bạn chắp cánh ước mơ, khẳng định bản thân và thực hiện sứ mệnh của mình." 
-    ,
-    footer: "Nguyễn Huyền My (Co-Founder of SheCodes Vietnam) - Hà Nội",
+      "Có vài câu hỏi đặt ra rằng “Tại sao SheCodes, không phải HeCodes? Các bạn có đang đánh rơi cơ hội của giới khác?”. Tại SheCodes Việt Nam, nỗ lực của chúng tôi luôn dành cho mục tiêu tôn trọng và tạo điều kiện để mỗi người được tự do làm điều mình thích dù bạn thuộc bất kỳ giới tính nào. Nhận thấy những khó khăn lớn của phái nữ khi gia nhập lĩnh vực CNTT, đội ngũ chúng tôi ở đây, cả nam và nữ, sẵn sàng hỗ trợ các bạn vượt lên trên những nỗi sợ, rào cản trong chính bản thân mình.",
+    footer: "Nguyễn Huyền My (Co-Founder of SheCodes Vietnam)",
   },
   {
     image:
