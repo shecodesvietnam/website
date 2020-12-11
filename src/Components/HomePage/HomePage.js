@@ -35,47 +35,47 @@ const RegistrationBox = styled.div`
 `;
 
 // TODO(vnvo2409): Add animation for button
-const RegistrationButton = styled.a`
-  display: inline-block;
-  text-transform: uppercase;
-  text-decoration: none;
-  font-size: 1.6rem;
-  padding: 1.5rem 4rem;
-  border-radius: 10rem;
-  transition: all 0.2s;
-  position: relative;
-  border: none;
-  cursor: pointer;
-  color: #3f3f3f;
-  background-color: #fbfeff;
-  text-align: center !important;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-weight: 400;
-  line-height: 1.7;
-  @media only screen and (max-width: 37.5em) {
-    font-size: 1.2rem;
-    padding: 1rem 2rem;
-  }
-  @keyframes moveInBottom {
-    0% {
-      opacity: 0;
-      transform: translateY(10rem);
-    }
-    100% {
-      opacity: 1;
-      transform: translate(0);
-    }
-  }
-  animation: moveInBottom 0.5s ease-out 0.75s;
-  animation-fill-mode: backwards;
-  &:hover,
-  &:link,
-  &visited,
-  &:active {
-    text-decoration: none;
-    color: #3f3f3f;
-  }
-`;
+// const RegistrationButton = styled.a`
+//   display: inline-block;
+  // text-transform: uppercase;
+//   text-decoration: none;
+//   font-size: 1.6rem;
+//   padding: 1.5rem 4rem;
+//   border-radius: 10rem;
+//   transition: all 0.2s;
+//   position: relative;
+//   border: none;
+//   cursor: pointer;
+//   color: #3f3f3f;
+//   background-color: #fbfeff;
+//   text-align: center !important;
+//   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+//   font-weight: 400;
+//   line-height: 1.7;
+//   @media only screen and (max-width: 37.5em) {
+//     font-size: 1.2rem;
+//     padding: 1rem 2rem;
+//   }
+//   @keyframes moveInBottom {
+//     0% {
+//       opacity: 0;
+//       transform: translateY(10rem);
+//     }
+//     100% {
+//       opacity: 1;
+//       transform: translate(0);
+//     }
+//   }
+//   animation: moveInBottom 0.5s ease-out 0.75s;
+//   animation-fill-mode: backwards;
+//   &:hover,
+//   &:link,
+//   &visited,
+//   &:active {
+//     text-decoration: none;
+//     color: #3f3f3f;
+//   }
+// `;
 
 const about =
   "SheCodes Vietnam là một tổ chức phi lợi nhuận, nhằm khuyến khích phái nữ tham gia vào lĩnh vực Công nghệ thông tin, qua đó dần dần xóa bỏ khoảng cách giới tính trong lĩnh vực này. Năm 2018, Shecodes Vietnam được triển khai lần đầu tiên tại TP Hà Nội, Việt Nam với sự kiện tiên phong mang tên Shecodes Hackathon cùng sự tham gia của hơn 200 bạn nữ CNTT. Hiện nay, Shecodes đã mở rộng các chương trình hoạt động tại cả thành phố Hà Nội và Hồ Chí Minh, thu hút hơn 6000 bạn trẻ quan tâm trên khắp cả nước.";
