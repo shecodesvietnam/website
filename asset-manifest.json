@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/shecode-website/static/css/main.0537f904.chunk.css",
-    "main.js": "/shecode-website/static/js/main.aab00106.chunk.js",
-    "main.js.map": "/shecode-website/static/js/main.aab00106.chunk.js.map",
-    "runtime-main.js": "/shecode-website/static/js/runtime-main.54015382.js",
-    "runtime-main.js.map": "/shecode-website/static/js/runtime-main.54015382.js.map",
-    "static/js/2.e233da88.chunk.js": "/shecode-website/static/js/2.e233da88.chunk.js",
-    "static/js/2.e233da88.chunk.js.map": "/shecode-website/static/js/2.e233da88.chunk.js.map",
-    "index.html": "/shecode-website/index.html",
-    "precache-manifest.abd1d3f0d7f2bb41eb5846450d08d7b7.js": "/shecode-website/precache-manifest.abd1d3f0d7f2bb41eb5846450d08d7b7.js",
-    "service-worker.js": "/shecode-website/service-worker.js",
-    "static/css/main.0537f904.chunk.css.map": "/shecode-website/static/css/main.0537f904.chunk.css.map",
-    "static/js/2.e233da88.chunk.js.LICENSE.txt": "/shecode-website/static/js/2.e233da88.chunk.js.LICENSE.txt",
-    "static/media/icon-font.css": "/shecode-website/static/media/linea-basic-10.e6763f00.ttf"
+    "main.css": "/website/static/css/main.26dd74b5.chunk.css",
+    "main.js": "/website/static/js/main.16407c9c.chunk.js",
+    "main.js.map": "/website/static/js/main.16407c9c.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.7a9d68da.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.7a9d68da.js.map",
+    "static/js/2.152d2319.chunk.js": "/website/static/js/2.152d2319.chunk.js",
+    "static/js/2.152d2319.chunk.js.map": "/website/static/js/2.152d2319.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.0cdcf08c4f55d51b5cdeaee00ea48384.js": "/website/precache-manifest.0cdcf08c4f55d51b5cdeaee00ea48384.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/main.26dd74b5.chunk.css.map": "/website/static/css/main.26dd74b5.chunk.css.map",
+    "static/js/2.152d2319.chunk.js.LICENSE.txt": "/website/static/js/2.152d2319.chunk.js.LICENSE.txt",
+    "static/media/icon-font.css": "/website/static/media/linea-basic-10.e6763f00.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.54015382.js",
-    "static/js/2.e233da88.chunk.js",
-    "static/css/main.0537f904.chunk.css",
-    "static/js/main.aab00106.chunk.js"
+    "static/js/runtime-main.7a9d68da.js",
+    "static/js/2.152d2319.chunk.js",
+    "static/css/main.26dd74b5.chunk.css",
+    "static/js/main.16407c9c.chunk.js"
   ]
 }
