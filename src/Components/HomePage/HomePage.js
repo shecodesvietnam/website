@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import styled from "styled-components";
+// import styled from "styled-components";
 import { Link } from "react-router-dom";
 
 import { Card } from "../Common/Card";
@@ -22,17 +22,17 @@ const timer = () => {
   return timeLeft;
 };
 
-const RegistrationBox = styled.div`
-  position: absolute;
-  top: 70%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  margin: 0;
-  padding: 0;
-  @media only screen and (max-width: 56.25em) {
-    top: 75%;
-  }
-`;
+// const RegistrationBox = styled.div`
+//   position: absolute;
+//   top: 70%;
+//   left: 50%;
+//   transform: translate(-50%, -50%);
+//   margin: 0;
+//   padding: 0;
+//   @media only screen and (max-width: 56.25em) {
+//     top: 75%;
+//   }
+// `;
 
 // TODO(vnvo2409): Add animation for button
 // const RegistrationButton = styled.a`
