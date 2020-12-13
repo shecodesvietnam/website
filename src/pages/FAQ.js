@@ -1,11 +1,10 @@
-import React, {useState} from 'react';
-
-import styled from 'styled-components';
+import React, { useState } from "react";
+import styled from "styled-components";
 
 const FAQBox = styled.div`
   margin: auto;
   margin-top: 6rem;
-  box-sizing:border-box;
+  box-sizing: border-box;
   padding: 0;
   background-color: #000;
 `;
@@ -16,34 +15,36 @@ const FAQMap = [
     ans: [
       "SheCodes là tổ chức hoạt động phi lợi nhuận hướng. Vì thế, hầu hết sự kiện đều miễn phí, bao gồm: Hackathon, Workshop công nghệ, Techtalk, Panel.",
       {
-        "as": "br",
+        as: "br",
       },
       "Các sự kiện thu phí sẽ được thông báo trước với người tham gia: Tech Marathon.",
-    ]
+    ],
   },
   {
     question: "> Ai có thể tham gia sự kiện của SheCodes?",
     ans: [
       "Các bạn nữ có hứng thú với công nghệ đều có thể tham gia sự kiện của SheCodes.",
-    ]
+    ],
   },
   {
-    question: "> Người không biết code có tham gia được không và bằng cách nào?",
+    question:
+      "> Người không biết code có tham gia được không và bằng cách nào?",
     ans: [
-      "Có! Rất nhiều bạn nữ không biết code trước khi tham gia sự kiện của SheCodes. Không sao hết. SheCodes cung cấp các chương trình như workshop lập trình, tech marathon, coding class. Từ đó giúp các bạn có nền tảng lập trình căn bản và các kiến thức cần thiết cho Hackathon."
-    ]
+      "Có! Rất nhiều bạn nữ không biết code trước khi tham gia sự kiện của SheCodes. Không sao hết. SheCodes cung cấp các chương trình như workshop lập trình, tech marathon, coding class. Từ đó giúp các bạn có nền tảng lập trình căn bản và các kiến thức cần thiết cho Hackathon.",
+    ],
   },
   {
-    question: "> Làm sao để tham gia cộng đồng lập trình cho phái nữ của SheCodes?",
+    question:
+      "> Làm sao để tham gia cộng đồng lập trình cho phái nữ của SheCodes?",
     ans: [
       "Bạn hãy tham gia group này group ",
       {
-        "as": "a",
-        "href": "https://www.facebook.com/groups/shecodes.hackathon/",
-        "insideText": "Hackathon",
+        as: "a",
+        href: "https://www.facebook.com/groups/shecodes.hackathon/",
+        insideText: "Hackathon",
       },
-      "."
-    ]
+      ".",
+    ],
   },
 ];
 
@@ -59,10 +60,10 @@ const FAQsQuestion = styled.h4`
   font-weight: 500;
   padding: 2rem;
   border: 0.15rem solid #3f3f3f;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.7;
   color: #f0f0f0;
-  background-color: ${props => props.ans ? "#3f3f3f" : "#000" };
+  background-color: ${(props) => (props.ans ? "#3f3f3f" : "#000")};
   display: block;
   cursor: pointer;
   text-align: left;
@@ -70,7 +71,7 @@ const FAQsQuestion = styled.h4`
   &:hover {
     background-color: #3f3f3f;
   }
-`
+`;
 
 const FAQsAnswer = styled.div`
   max-height: 100vh;
@@ -79,7 +80,7 @@ const FAQsAnswer = styled.div`
   padding: 2rem;
   border: 0.15rem solid #3f3f3f;
   margin: 0;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.7;
   color: #f0f0f0;
   text-align: justify;
@@ -165,35 +166,41 @@ const FAQsHeader = styled.h2`
   color: #fbfeff;
   display: inline-block;
   letter-spacing: 0.2rem;
-  transition: all 0.2s; 
+  transition: all 0.2s;
   padding-bottom: 4rem !important;
   @media only screen and (max-width: 56.25em) {
-    padding-bottom: 3rem !important; 
+    padding-bottom: 3rem !important;
   }
   padding-top: 8rem !important;
   @media only screen and (max-width: 56.25em) {
-    padding-top: 5rem !important; 
+    padding-top: 5rem !important;
   }
 `;
 
 const FAQsItem = (props) => {
   const [show, setShow] = useState(false);
-  return(
+  return (
     <FAQsItemBox>
-      <FAQsQuestion ans={show} onClick={() => {setShow(!show)}} show={show}>{props.question}</FAQsQuestion>
-      <FAQsAnswer hidden={!show}>
-        {props.ansComponents}
-      </FAQsAnswer>
+      <FAQsQuestion
+        ans={show}
+        onClick={() => {
+          setShow(!show);
+        }}
+        show={show}
+      >
+        {props.question}
+      </FAQsQuestion>
+      <FAQsAnswer hidden={!show}>{props.ansComponents}</FAQsAnswer>
     </FAQsItemBox>
-  )
-}
+  );
+};
 
 const FAQAnsFragment = styled.p`
   font-size: 1.6rem;
   line-height: 1.7;
   margin: 0;
   padding: 0;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   display: inline;
 `;
 
@@ -205,22 +212,28 @@ const generateFAQComponent = (FAQMap) => {
     let ansComponents = [];
     for (let j = 0; j < ans_array.length; j++) {
       const ans = ans_array[j];
-      if(typeof(ans) !== 'string') {
+      if (typeof ans !== "string") {
         ansComponents.push(
-        <FAQAnsFragment {...ans} key={"ans_" + j}>{ans.insideText}</FAQAnsFragment>
-        )
+          <FAQAnsFragment {...ans} key={"ans_" + j}>
+            {ans.insideText}
+          </FAQAnsFragment>
+        );
       } else {
         ansComponents.push(
           <FAQAnsFragment key={"ans_" + j}>{ans}</FAQAnsFragment>
-        )
+        );
       }
     }
     FAQComponent.push(
-      <FAQsItem question={faq.question} ansComponents={ansComponents} key={"faqs_" + i}/>
-    )
+      <FAQsItem
+        question={faq.question}
+        ansComponents={ansComponents}
+        key={"faqs_" + i}
+      />
+    );
   }
   return FAQComponent;
-}
+};
 
 const FAQ = (props) => {
   return (
@@ -230,7 +243,7 @@ const FAQ = (props) => {
         {generateFAQComponent(FAQMap)}
       </FAQRow>
     </FAQBox>
-  )
+  );
 };
 
 export default FAQ;

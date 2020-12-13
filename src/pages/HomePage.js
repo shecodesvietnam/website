@@ -2,25 +2,11 @@ import React, { useEffect, useState } from "react";
 // import styled from "styled-components";
 import { Link } from "react-router-dom";
 
-import { Card } from "../Common/Card";
-import { FlexBox, Box } from "../Common/Box";
-import { ColorfulText, NormalText, AnimationLink } from "../Common/Text";
-
-const timer = () => {
-  const expired = new Date(2020, 6, 13, 0, 0, 0, 0);
-  const difference = expired - Date.now();
-  console.log(expired);
-  let timeLeft = "";
-  if (difference > 0) {
-    timeLeft += Math.floor(difference / (1000 * 60 * 60 * 24)) + "d : ";
-    timeLeft += Math.floor((difference / (1000 * 60 * 60)) % 24) + "h : ";
-    timeLeft += Math.floor((difference / 1000 / 60) % 60) + "m : ";
-    timeLeft += Math.floor((difference / 1000) % 60) + "s ";
-  } else {
-    timeLeft = "Đơn đăng ký đợt 2 đã đóng !";
-  }
-  return timeLeft;
-};
+import { Card } from "./../components/Card";
+import { FlexBox, Box } from "./../components/Box";
+import { ColorfulText, NormalText, AnimationLink } from "./../components/Text";
+import timer from "./../utils/timer";
+import config from "./../config.json";
 
 // const RegistrationBox = styled.div`
 //   position: absolute;
@@ -77,6 +63,8 @@ const timer = () => {
 //   }
 // `;
 
+const githubRawAssets = config.githubRawAssets;
+
 const about =
   "SheCodes Vietnam là một tổ chức phi lợi nhuận, nhằm khuyến khích phái nữ tham gia vào lĩnh vực Công nghệ thông tin, qua đó dần dần xóa bỏ khoảng cách giới tính trong lĩnh vực này. Năm 2018, Shecodes Vietnam được triển khai lần đầu tiên tại TP Hà Nội, Việt Nam với sự kiện tiên phong mang tên Shecodes Hackathon cùng sự tham gia của hơn 200 bạn nữ CNTT. Hiện nay, Shecodes đã mở rộng các chương trình hoạt động tại cả thành phố Hà Nội và Hồ Chí Minh, thu hút hơn 6000 bạn trẻ quan tâm trên khắp cả nước.";
 const features = [
@@ -107,29 +95,28 @@ const features = [
     icon: "icon-basic-question",
   },
 ];
+
 const quotes = [
   {
-    image:
-      "https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/staffs/HN/Director_Mai_Phuong_Thuy_Tien.jpg",
+    image: githubRawAssets + "/staffs/HN/Director_Mai_Phuong_Thuy_Tien.jpg",
     quote:
       "Khi các bên đối tác hỏi SheCodes rằng liệu có đủ phái nữ thích công nghệ để mà thực hiện chương trình không thì câu trả lời sẽ luôn là có. Luôn có một nguồn nhân lực nữ đam mê tự học về IT, say sưa với từng dòng code, nhưng đơn giản là họ chưa tìm thấy đất dụng võ cho mình. SheCodes sẽ tạo ra một network để nữ giới phá bỏ các rào cản cá nhân và xã hội để can trường dấn thân vào lĩnh vực công nghệ này.",
     footer: "Mai Phương Thủy Tiên (Director of SheCodes Vietnam)",
   },
   {
-    image:
-      "https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/staffs/HN/PM_Nguyen_Huyen_My.jpg",
+    image: githubRawAssets + "/staffs/HN/PM_Nguyen_Huyen_My.jpg",
     quote:
       "Có vài câu hỏi đặt ra rằng “Tại sao SheCodes, không phải HeCodes? Các bạn có đang đánh rơi cơ hội của giới khác?”. Tại SheCodes Việt Nam, nỗ lực của chúng tôi luôn dành cho mục tiêu tôn trọng và tạo điều kiện để mỗi người được tự do làm điều mình thích dù bạn thuộc bất kỳ giới tính nào. Nhận thấy những khó khăn lớn của phái nữ khi gia nhập lĩnh vực CNTT, đội ngũ chúng tôi ở đây, cả nam và nữ, sẵn sàng hỗ trợ các bạn vượt lên trên những nỗi sợ, rào cản trong chính bản thân mình.",
     footer: "Nguyễn Huyền My (Co-Founder of SheCodes Vietnam)",
   },
   {
-    image:
-      "https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/staffs/HN/PM_Nguyen_Vu_Ngan_Ha.jpg",
+    image: githubRawAssets + "/staffs/HN/PM_Nguyen_Vu_Ngan_Ha.jpg",
     quote:
       "Chỉ cần có định hướng và những cơ hội phù hợp, phái nữ có thể tiến xa hơn bất kì ai. Vì vậy, tôi tin Tech Marathon là một chương trình có thể đem đến cơ hội và sự định hướng đó cho những bạn nữ - nhất là những người đang phân vân giữa những ngã rẽ nghề nghiệp, giúp họ tự tin hơn để theo đuổi ngành công nghệ thông tin.",
     footer: "Nguyễn Vũ Ngân Hà (Head of Tech Marathon) - Hà Nội",
   },
 ];
+
 const statistics = [
   {
     number: "30+",
@@ -154,7 +141,7 @@ const HomePage = (props) => {
   const [time, setTime] = useState(timer());
   useEffect(() => {
     let countdown = setTimeout(() => {
-      setTime(timer());
+      setTime(timer(2020, 6, 13, 0, 0, 0, 0));
     }, 1000);
     return () => {
       clearTimeout(countdown);
@@ -165,16 +152,16 @@ const HomePage = (props) => {
       <Box
         width="100%"
         height="calc(100vh - 6rem)"
-        addition="
+        addition={`
           background-image: linear-gradient(
             to right bottom,
             rgba(22, 22, 22, 0.75),
             rgba(22, 22, 22, 0.75)
-          ), url('https://raw.githubusercontent.com/shecodesvietnam/assets/master/2018/hackathon/hackathon-team-2018.jpg');
+          ), url("${githubRawAssets}/media/hackathon-team-2020.jpg");
           background-position: center;
           background-size: cover;
           position: relative;
-        "
+        `}
       >
         <Box
           width="100%"
