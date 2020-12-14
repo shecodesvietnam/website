@@ -409,11 +409,11 @@ const HomePage = (props) => {
         as="article"
         backgroundColor="#000"
         padding="15rem 0 15rem 0"
-        addition="
-          background-image: linear-gradient(to right bottom, rgba(22, 22, 22, 0.75), rgba(22, 22, 22, 0.75)), url('https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/media/homepage-secondary.png');
+        addition={`
+          background-image: linear-gradient(to right bottom, rgba(22, 22, 22, 0.75), rgba(22, 22, 22, 0.75)), url('${githubRawAssets}/media/homepage-secondary.png');
           background-position: center;
           background-size: cover;
-        "
+        `}
       >
         <NormalText
           s="h2"
