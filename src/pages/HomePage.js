@@ -66,7 +66,7 @@ import config from "./../config.json";
 const githubRawAssets = config.githubRawAssets;
 
 const about =
-  "SheCodes Vietnam là một tổ chức phi lợi nhuận, nhằm khuyến khích phái nữ tham gia vào lĩnh vực Công nghệ thông tin, qua đó dần dần xóa bỏ khoảng cách giới tính trong lĩnh vực này. Năm 2018, Shecodes Vietnam được triển khai lần đầu tiên tại TP Hà Nội, Việt Nam với sự kiện tiên phong mang tên Shecodes Hackathon cùng sự tham gia của hơn 200 bạn nữ CNTT. Hiện nay, Shecodes đã mở rộng các chương trình hoạt động tại cả thành phố Hà Nội và Hồ Chí Minh, thu hút hơn 6000 bạn trẻ quan tâm trên khắp cả nước.";
+  "SheCodes Vietnam là một tổ chức phi lợi nhuận, nhằm khuyến khích phái nữ tham gia vào lĩnh vực Công nghệ thông tin, qua đó dần dần xóa bỏ khoảng cách giới tính trong lĩnh vực này. Chúng tôi muốn thay đổi tư duy của mọi người về phái nữ trong ngành Công nghệ thông tin và tạo ra một môi trường dám thử sức - dám thất bại để phái nữ có thể thoải mái sáng tạo, học hỏi về công nghệ. Chúng tôi hi vọng chính những người tham dự của SheCodes sẽ tạo nên một tương lai cho nền công nghệ tại Việt Nam. Năm 2018, Shecodes Vietnam được triển khai lần đầu tiên tại TP Hà Nội, Việt Nam với sự kiện tiên phong mang tên Shecodes Hackathon cùng sự tham gia của hơn 200 bạn nữ CNTT. Hiện nay, Shecodes đã mở rộng các chương trình hoạt động tại cả thành phố Hà Nội và Hồ Chí Minh, thu hút hơn 6000 bạn trẻ quan tâm trên khắp cả nước.";
 const features = [
   {
     name: "TECH MARATHON",
