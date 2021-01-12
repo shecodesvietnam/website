@@ -226,6 +226,13 @@ const years = [
     event: [
       {
         location: "Hà Nội",
+        time: "7/2020",
+        title: "SheCodes Hackathon",
+        content:
+          "Sự kiện hackathon đầu tiên dành riêng cho nữ giới tại Viêt Nam. Tại đây, phái nữ có 36 giờ đồng hồ để xây dựng giải pháo công nghệ cho một trong các vấn đề xã hội.",
+      },
+      {
+        location: "Hà Nội",
         time: "5/2020",
         title: "IT Fair",
         content:

@@ -224,7 +224,7 @@ const HomePage = (props) => {
               }
             "
           >
-            {time}
+            Hẹn gặp lại các bạn ở mùa tiếp theo!
           </NormalText>
         </Box>
         {/* <RegistrationBox>
