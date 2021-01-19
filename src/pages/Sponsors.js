@@ -3,9 +3,7 @@ import styled from "styled-components";
 
 import { FlexBox, Box } from "./../components/Box";
 import { NormalText } from "./../components/Text";
-import config from "./../config.json";
-
-const githubRawAssets = config.githubRawAssets;
+import { githubRawAssets } from "./../config.json";
 
 const PartnerBox = styled.div`
   background-color: #000;
@@ -22,39 +20,39 @@ const sponsors_hn = [
   {
     name: "Đơn vị đồng tổ chức",
     images: [
-      githubRawAssets + "/sponsors/hn/bkhup.jpg",
-      githubRawAssets + "/sponsors/hn/women_techmarkers.png",
+      githubRawAssets + "/2020/sponsors/hn/bkhup.jpg",
+      githubRawAssets + "/2020/sponsors/hn/women_techmarkers.png",
     ],
   },
   {
     name: "Nhà Tài Trợ Kim Cương",
     images: [
-      githubRawAssets + "/sponsors/CSDS logo_final with slogan.jpg",
-      githubRawAssets + "/sponsors/OSAM.png",
+      githubRawAssets + "/2020/sponsors/CSDS logo_final with slogan.jpg",
+      githubRawAssets + "/2020/sponsors/OSAM.png",
     ],
   },
   {
     name: "Nhà Tài Trợ Vàng",
     images: [
-      githubRawAssets + "/sponsors/hn/globalcare-logo.jpg",
-      githubRawAssets + "/sponsors/hn/openm-logo.jpg",
-      githubRawAssets + "/sponsors/hn/ai4e.png",
+      githubRawAssets + "/2020/sponsors/hn/globalcare-logo.jpg",
+      githubRawAssets + "/2020/sponsors/hn/openm-logo.jpg",
+      githubRawAssets + "/2020/sponsors/hn/ai4e.png",
     ],
   },
   {
     name: "Nhà Tài Trợ Bạc",
     images: [
-      githubRawAssets + "/sponsors/hn/sutunam-logo.jpg",
-      githubRawAssets + "/sponsors/hn/logo-ebiv-.jpg",
-      githubRawAssets + "/sponsors/hn/colorme-logo.jpg",
+      githubRawAssets + "/2020/sponsors/hn/sutunam-logo.jpg",
+      githubRawAssets + "/2020/sponsors/hn/logo-ebiv-.jpg",
+      githubRawAssets + "/2020/sponsors/hn/colorme-logo.jpg",
     ],
   },
   {
     name: "Đối tác",
     images: [
-      githubRawAssets + "/sponsors/hn/logo-Summit-01-1024x292.jpg",
-      githubRawAssets + "/sponsors/hn/wise.png",
-      githubRawAssets + "/sponsors/hn/rudicaf.png",
+      githubRawAssets + "/2020/sponsors/hn/logo-Summit-01-1024x292.jpg",
+      githubRawAssets + "/2020/sponsors/hn/wise.png",
+      githubRawAssets + "/2020/sponsors/hn/rudicaf.png",
     ],
   },
 ];
@@ -62,27 +60,27 @@ const sponsors_hn = [
 const sponsors_hcm = [
   {
     name: "Đồng tổ chức",
-    images: [githubRawAssets + "/sponsors/hcm/vtc.png"],
+    images: [githubRawAssets + "/2020/sponsors/hcm/vtc.png"],
   },
   {
     name: "Nhà tài trợ kim cương",
-    images: [githubRawAssets + "/sponsors/hcm/lian.png"],
+    images: [githubRawAssets + "/2020/sponsors/hcm/lian.png"],
   },
   {
     name: "Nhà tài trợ vàng",
-    images: [githubRawAssets + "/sponsors/hcm/topcv.png"],
+    images: [githubRawAssets + "/2020/sponsors/hcm/topcv.png"],
   },
   {
     name: "Đối tác chuyên môn",
-    images: [githubRawAssets + "/sponsors/hcm/tiki.png"],
+    images: [githubRawAssets + "/2020/sponsors/hcm/tiki.png"],
   },
   {
     name: "Bảo trợ truyền thông",
-    images: [githubRawAssets + "/sponsors/hcm/ybox.png"],
+    images: [githubRawAssets + "/2020/sponsors/hcm/ybox.png"],
   },
   {
     name: "Đối  tác truyền thông",
-    images: [githubRawAssets + "/sponsors/hcm/coc_sai_gon.jpg"],
+    images: [githubRawAssets + "/2020/sponsors/hcm/coc_sai_gon.jpg"],
   },
 ];
 

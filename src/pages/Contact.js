@@ -1,9 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-import config from "./../config.json";
-
-const githubRawAssets = config.githubRawAssets;
+import { githubRawAssets } from "./../config.json";
 
 const ContactBox = styled.div`
   margin: auto;
@@ -173,12 +171,12 @@ const contactMap = [
   {
     name: "MS. MAI PHUONG THUY TIEN",
     email: "tienmai.shecodes@gmail.com",
-    image: `${githubRawAssets}/staffs/HN/Director_Mai_Phuong_Thuy_Tien.jpg`,
+    image: `${githubRawAssets}/2020/staffs/HN/Director_Mai_Phuong_Thuy_Tien.jpg`,
   },
   {
     name: "MS. NGUYỄN HUYỀN MY",
     email: "huyenmy.shecodes@gmail.com",
-    image: `${githubRawAssets}/staffs/HN/PM_Nguyen_Huyen_My.jpg`,
+    image: `${githubRawAssets}/2020/staffs/HN/PM_Nguyen_Huyen_My.jpg`,
   },
 ];
 

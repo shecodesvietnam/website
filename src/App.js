@@ -4,14 +4,16 @@ import styled from "styled-components";
 
 import HomePage from "./pages/HomePage";
 import Blog from "./pages/Blog";
+import BlogDetail from "./pages/BlogDetail";
 import Event from "./pages/Event";
-import Hackathon from "./pages/Hackathon"; // Duck typing
+import Hackathon from "./pages/Hackathon";
 import TechMarathon from "./pages/TechMarathon";
 import Staffs from "./pages/Staffs";
 import Contact from "./pages/Contact";
 import FAQ from "./pages/FAQ";
 import Sponsors from "./pages/Sponsors";
 import About from "./pages/About";
+import { githubRawAssets } from "./config.json";
 import "./App.css";
 import "./style/icon-font.css";
 
@@ -369,7 +371,7 @@ function App() {
           <LogoBox>
             <Link to="/">
               <Logo
-                src="https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/media/logo-2020.png"
+                src={`${githubRawAssets}/2020/media/logo-2020.png`}
                 alt="SheCodes Logo"
                 onClick={() => setShow(false)}
               />
@@ -395,11 +397,11 @@ function App() {
                   Sự kiện khác
                 </LinkItemActive>
               </MenuItem>
-              <MenuItem>
+              {/* <MenuItem>
                 <LinkItemActive to="/staffs" onClick={() => setShow(false)}>
                   Đội ngũ
                 </LinkItemActive>
-              </MenuItem>
+              </MenuItem> */}
               <MenuItem last>
                 <LinkItemActive to="/blog" onClick={() => setShow(false)}>
                   Blog
@@ -414,6 +416,7 @@ function App() {
       </NavBarHeader>
       <Switch>
         <Route exact path="/" component={HomePage} />
+        <Route path="/blog/:postId" component={BlogDetail} />
         <Route path="/blog" component={Blog} />
         <Route path="/event" component={Event} />
         <Route path="/hackathon" component={Hackathon} />
@@ -427,7 +430,7 @@ function App() {
       <FooterBox>
         <FooterLogoBox>
           <img
-            src="https://raw.githubusercontent.com/shecodesvietnam/assets/master/2020/media/logo-2020.png"
+            src={`${githubRawAssets}/2020/media/logo-2020.png`}
             alt="SheCodes Logo"
           />
         </FooterLogoBox>

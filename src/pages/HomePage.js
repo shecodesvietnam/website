@@ -6,7 +6,7 @@ import { Card } from "./../components/Card";
 import { FlexBox, Box } from "./../components/Box";
 import { ColorfulText, NormalText, AnimationLink } from "./../components/Text";
 import timer from "./../utils/timer";
-import config from "./../config.json";
+import { githubRawAssets } from "./../config.json";
 
 // const RegistrationBox = styled.div`
 //   position: absolute;
@@ -63,8 +63,6 @@ import config from "./../config.json";
 //   }
 // `;
 
-const githubRawAssets = config.githubRawAssets;
-
 const about =
   "SheCodes Vietnam là một tổ chức phi lợi nhuận, nhằm khuyến khích phái nữ tham gia vào lĩnh vực Công nghệ thông tin, qua đó dần dần xóa bỏ khoảng cách giới tính trong lĩnh vực này. Chúng tôi muốn thay đổi tư duy của mọi người về phái nữ trong ngành Công nghệ thông tin và tạo ra một môi trường dám thử sức - dám thất bại để phái nữ có thể thoải mái sáng tạo, học hỏi về công nghệ. Chúng tôi hi vọng chính những người tham dự của SheCodes sẽ tạo nên một tương lai cho nền công nghệ tại Việt Nam. Năm 2018, Shecodes Vietnam được triển khai lần đầu tiên tại TP Hà Nội, Việt Nam với sự kiện tiên phong mang tên Shecodes Hackathon cùng sự tham gia của hơn 200 bạn nữ CNTT. Hiện nay, Shecodes đã mở rộng các chương trình hoạt động tại cả thành phố Hà Nội và Hồ Chí Minh, thu hút hơn 6000 bạn trẻ quan tâm trên khắp cả nước.";
 const features = [
@@ -98,19 +96,20 @@ const features = [
 
 const quotes = [
   {
-    image: githubRawAssets + "/staffs/HN/Director_Mai_Phuong_Thuy_Tien.jpg",
+    image:
+      githubRawAssets + "/2020/staffs/HN/Director_Mai_Phuong_Thuy_Tien.jpg",
     quote:
       "Khi các bên đối tác hỏi SheCodes rằng liệu có đủ phái nữ thích công nghệ để mà thực hiện chương trình không thì câu trả lời sẽ luôn là có. Luôn có một nguồn nhân lực nữ đam mê tự học về IT, say sưa với từng dòng code, nhưng đơn giản là họ chưa tìm thấy đất dụng võ cho mình. SheCodes sẽ tạo ra một network để nữ giới phá bỏ các rào cản cá nhân và xã hội để can trường dấn thân vào lĩnh vực công nghệ này.",
     footer: "Mai Phương Thủy Tiên (Director of SheCodes Vietnam)",
   },
   {
-    image: githubRawAssets + "/staffs/HN/PM_Nguyen_Huyen_My.jpg",
+    image: githubRawAssets + "/2020/staffs/HN/PM_Nguyen_Huyen_My.jpg",
     quote:
       "Có vài câu hỏi đặt ra rằng “Tại sao SheCodes, không phải HeCodes? Các bạn có đang đánh rơi cơ hội của giới khác?”. Tại SheCodes Việt Nam, nỗ lực của chúng tôi luôn dành cho mục tiêu tôn trọng và tạo điều kiện để mỗi người được tự do làm điều mình thích dù bạn thuộc bất kỳ giới tính nào. Nhận thấy những khó khăn lớn của phái nữ khi gia nhập lĩnh vực CNTT, đội ngũ chúng tôi ở đây, cả nam và nữ, sẵn sàng hỗ trợ các bạn vượt lên trên những nỗi sợ, rào cản trong chính bản thân mình.",
     footer: "Nguyễn Huyền My (Co-Founder of SheCodes Vietnam)",
   },
   {
-    image: githubRawAssets + "/staffs/HN/PM_Nguyen_Vu_Ngan_Ha.jpg",
+    image: githubRawAssets + "/2020/staffs/HN/PM_Nguyen_Vu_Ngan_Ha.jpg",
     quote:
       "Chỉ cần có định hướng và những cơ hội phù hợp, phái nữ có thể tiến xa hơn bất kì ai. Vì vậy, tôi tin Tech Marathon là một chương trình có thể đem đến cơ hội và sự định hướng đó cho những bạn nữ - nhất là những người đang phân vân giữa những ngã rẽ nghề nghiệp, giúp họ tự tin hơn để theo đuổi ngành công nghệ thông tin.",
     footer: "Nguyễn Vũ Ngân Hà (Head of Tech Marathon) - Hà Nội",
@@ -157,7 +156,7 @@ const HomePage = (props) => {
             to right bottom,
             rgba(22, 22, 22, 0.75),
             rgba(22, 22, 22, 0.75)
-          ), url("${githubRawAssets}/media/hackathon-team-2020.jpg");
+          ), url("${githubRawAssets}/2020/media/hackathon-team-2020.jpg");
           background-position: center;
           background-size: cover;
           position: relative;
@@ -410,7 +409,7 @@ const HomePage = (props) => {
         backgroundColor="#000"
         padding="15rem 0 15rem 0"
         addition={`
-          background-image: linear-gradient(to right bottom, rgba(22, 22, 22, 0.75), rgba(22, 22, 22, 0.75)), url('${githubRawAssets}/media/homepage-secondary.png');
+          background-image: linear-gradient(to right bottom, rgba(22, 22, 22, 0.75), rgba(22, 22, 22, 0.75)), url('${githubRawAssets}/2020/media/homepage-secondary.png');
           background-position: center;
           background-size: cover;
         `}

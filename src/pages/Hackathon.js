@@ -36,7 +36,7 @@ const HeaderBox = styled.div`
         rgba(22, 22, 22, 0.8),
         rgba(22, 22, 22, 0.8)
       ),
-      url("${githubRawAssets}/media/Hackathon-image.png");
+      url("${githubRawAssets}/2020/media/Hackathon-image.png");
   }
 `;
 
@@ -249,7 +249,7 @@ const EvaluationParagraph = styled(PurposeParagraph)`
 `;
 
 const AgendaBox = styled.div`
-  background-image: url("${githubRawAssets}/media/logodark.png");
+  background-image: url("${githubRawAssets}/2020/media/logodark.png");
   background-size: cover;
   background-position: top;
   padding-top: 15rem;
@@ -1104,103 +1104,103 @@ const speakers_hn = [
   {
     name: "Mr. Minh Duong",
     title: "CBO OSAM",
-    image: `${githubRawAssets}/speaker/hn/minh_duong.jpg`,
+    image: `${githubRawAssets}/2020/speaker/hn/minh_duong.jpg`,
   },
   {
     name: "Mr. Tuan Nguyen",
     title:
       "Founder AI For Everyone - Research Scientist Vingroup BigData Institute",
-    image: `${githubRawAssets}/speaker/hn/tuan_nguyen.jpg`,
+    image: `${githubRawAssets}/2020/speaker/hn/tuan_nguyen.jpg`,
   },
   {
     name: "Ms. Trang Tran",
     title: "Software Engineer, Site Reliability Google",
-    image: `${githubRawAssets}/speaker/hn/trang_tran.png`,
+    image: `${githubRawAssets}/2020/speaker/hn/trang_tran.png`,
   },
   {
     name: "Ms. Nguyen Quynh Mai",
     title: "AI Research Engineer",
-    image: `${githubRawAssets}/speaker/hn/nguyen_quynh_mai.jpeg`,
+    image: `${githubRawAssets}/2020/speaker/hn/nguyen_quynh_mai.jpeg`,
   },
   {
     name: "Mr. Binh Nguyen",
     title:
       "Google Developer Expert in Machine Learning - NLP Engineer at VinBigdata",
-    image: `${githubRawAssets}/speaker/hn/binh_nguyen.png`,
+    image: `${githubRawAssets}/2020/speaker/hn/binh_nguyen.png`,
   },
   {
     name: "Ms Quynh Le",
     title: "VinAI Resident",
-    image: `${githubRawAssets}/speaker/hn/quynh_le.jpg`,
+    image: `${githubRawAssets}/2020/speaker/hn/quynh_le.jpg`,
   },
 ];
 const speakers_hcm = [
   {
     name: "Madam Lien",
     title: "CEO LIAN, Investor Shark Tank Vietnam",
-    image: `${githubRawAssets}/speaker/hcm/madam-lien.jpg`,
+    image: `${githubRawAssets}/2020/speaker/hcm/madam-lien.jpg`,
   },
   {
     name: "Mr. Tran Vu Anh",
     title: "CTO Waves8",
-    image: `${githubRawAssets}/speaker/hcm/tran-vu-anh.jpg`,
+    image: `${githubRawAssets}/2020/speaker/hcm/tran-vu-anh.jpg`,
   },
   {
     name: "Mr. Ly Quang Huy",
     title: "CTO Iot Gaming Vietnam",
-    image: `${githubRawAssets}/speaker/hcm/ly-quang-huy.jpg`,
+    image: `${githubRawAssets}/2020/speaker/hcm/ly-quang-huy.jpg`,
   },
   {
     name: "Ms. Elisha Tan",
     title: "PM Facebook APAC - Founder TechLadies",
-    image: `${githubRawAssets}/speaker/hcm/elisha-tan.jpg`,
+    image: `${githubRawAssets}/2020/speaker/hcm/elisha-tan.jpg`,
   },
   {
     name: "Mr. Nguyen Sieu Dang",
     title:
       "Training director Master in IOT program FPT International Education",
-    image: `${githubRawAssets}/speaker/hcm/nguyen-sieu-dang.jpg`,
+    image: `${githubRawAssets}/2020/speaker/hcm/nguyen-sieu-dang.jpg`,
   },
   {
     name: "Ms. Nguyen Thuy An",
     title: "Teacher at Facebook Developer Circles Innovation Challenge",
-    image: `${githubRawAssets}/speaker/hcm/nguyen-thuy-an.jpg`,
+    image: `${githubRawAssets}/2020/speaker/hcm/nguyen-thuy-an.jpg`,
   },
   {
     name: "Mr. Nguyen Xuan Hiep",
     title: "Data Scientist - Logivan",
-    image: `${githubRawAssets}/speaker/hcm/nguyen_xuan_hiep.png`,
+    image: `${githubRawAssets}/2020/speaker/hcm/nguyen_xuan_hiep.png`,
   },
   {
     name: "Mr. Anjul S",
     title: "Thạc sĩ Khoa học Máy tính và Kỹ thuật của Viện Khoa học Ấn Độ",
-    image: `${githubRawAssets}/speaker/hcm/anju.jpg`,
+    image: `${githubRawAssets}/2020/speaker/hcm/anju.jpg`,
   },
   {
     name: "Mr. Vu Thai Bao",
     title: "Trung Tâm Giám Sát An Toàn Thông Tin HPT",
-    image: `${githubRawAssets}/speaker/hcm/vu_thai_bao.png`,
+    image: `${githubRawAssets}/2020/speaker/hcm/vu_thai_bao.png`,
   },
   {
     name: "Mr. Dang Thanh Qui",
     title: "Trưởng Bộ môn Lập trình - VTC Academy TP.HCM",
-    image: `${githubRawAssets}/speaker/hcm/dang_thanh_qui.png`,
+    image: `${githubRawAssets}/2020/speaker/hcm/dang_thanh_qui.png`,
   },
   {
     name: "Mr. Ho Nguyen Hoang Phuong",
     title: "Giảng viên ngành Lập trình Game - VTC Academy TP.HCM",
-    image: `${githubRawAssets}/speaker/hcm/ho_nguyen_hoang_phuong.png`,
+    image: `${githubRawAssets}/2020/speaker/hcm/ho_nguyen_hoang_phuong.png`,
   },
   {
     name: "Mr. Vu Tuan Anh",
     title:
       "Thạc sỹ Vũ Tuấn Anh - Chuyên Gia Khởi Nghiệp – Hướng Nghiệp – Nghề Nghiệp",
-    image: `${githubRawAssets}/speaker/hcm/vu_tuan_anh.png`,
+    image: `${githubRawAssets}/2020/speaker/hcm/vu_tuan_anh.png`,
   },
   {
     name: "Mr. Pham Minh Duc",
     title: "Giám đốc Marketing & Truyền thông – VTC Academy",
-    image: `${githubRawAssets}/speaker/hcm/pham_minh_duc.png`,
+    image: `${githubRawAssets}/2020/speaker/hcm/pham_minh_duc.png`,
   },
 ];
 
@@ -1216,7 +1216,7 @@ const Hackathon = (props) => {
         <VideoBox>
           <VideoIntro autoPlay muted loop>
             <source
-              src={`${githubRawAssets}/media/hackathon2020.mp4`}
+              src={`${githubRawAssets}/2020/media/hackathon2020.mp4`}
               type="video/mp4"
             />
           </VideoIntro>
@@ -1285,7 +1285,7 @@ const Hackathon = (props) => {
         addition={`
           background-image: 
             linear-gradient(to right, rgba(22, 22, 22, 0.8), rgba(0, 0, 0, 0.8)), 
-            url('${githubRawAssets}/media/hackathon-mixed.png');
+            url('${githubRawAssets}/2020/media/hackathon-mixed.png');
           background-size: cover;
           background-position: top;
         `}
@@ -1530,7 +1530,7 @@ const Hackathon = (props) => {
       <SponsorsList />
       <article>
         <img
-          src={`${githubRawAssets}/media/B%C3%A0i%20bung.gif`}
+          src={`${githubRawAssets}/2020/media/B%C3%A0i%20bung.gif`}
           alt="inspiration"
           style={{ display: "block", width: "100%" }}
         />

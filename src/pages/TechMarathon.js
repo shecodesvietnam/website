@@ -1,9 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-import config from "./../config.json";
-
-const githubRawAssets = config.githubRawAssets;
+import { githubRawAssets } from "./../config.json";
 
 const TechMarathonBox = styled.div`
   margin: auto;
@@ -21,7 +19,7 @@ const MarathonHeaderImage = styled.div`
       rgba(22, 22, 22, 0.8),
       rgba(0, 0, 0, 0.8)
     ),
-    url("${githubRawAssets}/media/precoding-1.png");
+    url("${githubRawAssets}/2020/media/precoding-1.png");
   background-position: center;
   background-size: cover;
   position: relative;
@@ -185,7 +183,7 @@ const MarathonProgressBox = styled.article`
       rgba(22, 22, 22, 0.8),
       rgba(0, 0, 0, 0.8)
     ),
-    url("${githubRawAssets}/media/precoding-2.png");
+    url("${githubRawAssets}/2020/media/precoding-2.png");
   background-position: center;
   background-size: cover;
   padding-top: 15rem;
@@ -389,7 +387,7 @@ const MarathonForm = styled.article`
       rgba(22, 22, 22, 0.8),
       rgba(0, 0, 0, 0.8)
     ),
-    url("${githubRawAssets}/media/precoding-3.jpg");
+    url("${githubRawAssets}/2020/media/precoding-3.jpg");
   background-position: 0% 35%;
   background-size: cover;
 `;

@@ -1,9 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import { HashLink as Link } from "react-router-hash-link";
-
-const githubRawAsserts =
-  "https://raw.githubusercontent.com/shecodesvietnam/assets/master/";
+import { githubRawAssets } from "./../config.json";
 
 const EventBox = styled.div`
   margin: auto;
@@ -122,7 +120,8 @@ const YearImageBox = styled.div`
       rgba(22, 22, 22, 0.7)
     ),
     url(${(props) =>
-      githubRawAsserts +
+      githubRawAssets +
+      "/" +
       props.year +
       "/common/ava" +
       props.year +
@@ -138,7 +137,8 @@ const YearImageBox = styled.div`
         rgba(89, 35, 104, 0.7)
       ),
       url(${(props) =>
-        githubRawAsserts +
+        githubRawAssets +
+        "/" +
         props.year +
         "/common/ava" +
         props.year +
@@ -175,7 +175,8 @@ const YearImageBox = styled.div`
           ? "linear-gradient(to bottom, rgba(232, 8, 114, 0.6), rgba(89, 35, 104, 0.7))"
           : "linear-gradient(to right,rgba(22, 22, 22, 0.7), rgba(22, 22, 22, 0.7))"},
       url(${(props) =>
-        githubRawAsserts +
+        githubRawAssets +
+        "/" +
         props.year +
         "/common/ava" +
         props.year +
@@ -190,7 +191,8 @@ const YearImageBox = styled.div`
             ? "linear-gradient(to bottom, rgba(232, 8, 114, 0.6), rgba(89, 35, 104, 0.7))"
             : "linear-gradient(to right,rgba(22, 22, 22, 0.7), rgba(22, 22, 22, 0.7))"},
         url(${(props) =>
-          githubRawAsserts +
+          githubRawAssets +
+          "/" +
           props.year +
           "/common/ava" +
           props.year +
@@ -315,7 +317,7 @@ const YearsItemsBox = styled.article`
 
 const YearItemBackground = styled.div`
   background-image: url(${(props) =>
-    githubRawAsserts + props.year + "/hackathon/event.jpg"});
+    githubRawAssets + "/" + props.year + "/hackathon/event.jpg"});
   height: 500px;
   max-height: 600px;
   width: 100%;

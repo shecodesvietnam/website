@@ -1,9 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-import config from "./../config.json";
-
-const githubRawAssets = config.githubRawAssets;
+import { githubRawAssets } from "./../config.json";
 
 const StaffsBox = styled.div`
   margin: auto;
@@ -323,7 +321,7 @@ const generateStaffsComponent = (staffsMap) => {
               <StaffsImageBox>
                 <StaffsImage
                   alt={staff.name}
-                  src={`${githubRawAssets}/staffs/${staff.image}`}
+                  src={`${githubRawAssets}/2020/staffs/${staff.image}`}
                 />
               </StaffsImageBox>
               <StaffsName>{staff.name}</StaffsName>
