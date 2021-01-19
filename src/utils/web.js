@@ -1,3 +1,10 @@
+function simplyContent(wordCount = 10) {
+  return function replace(str) {
+    const pattern = /\s+/g;
+    return str.split(pattern).slice(0, wordCount).join(" ");
+  };
+}
+
 function replaceLink(pattern, style) {
   return function replace(str) {
     return str.replace(pattern, function replace(url) {
@@ -14,4 +21,4 @@ function replaceHashtag(pattern, style) {
   };
 }
 
-export { replaceLink, replaceHashtag };
+export { simplyContent, replaceLink, replaceHashtag };
