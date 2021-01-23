@@ -80,7 +80,7 @@ async function queryPostList() {
     // },
     {
       id:  "698611530920245",
-      content: "SHECODES VIETNAM CHÍNH THỨC THAY ÁO MỚI Bộ nhận diện mới của SheCodes hôm nay sẽ chính thức lên sóng, cùng với rất nhiều sự kiện mới đang chuẩn bị xuất hiện. Bật mí cho mọi người, trong số đó sẽ có sự kiện lớn nhất trong năm của SheCodes!!! Hãy sẵn sàng cho một mùa hè nhiệt huyết với SheCodes Vietnam nha <3 Tìm hiểu thêm thông tin Shecodes Việt Nam tại: https://shecodesvietnam.tech/",
+      content: "SHECODES VIETNAM CHÍNH THỨC THAY ÁO MỚI \n Bộ nhận diện mới của SheCodes hôm nay sẽ chính thức lên sóng, cùng với rất nhiều sự kiện mới đang chuẩn bị xuất hiện. Bật mí cho mọi người, trong số đó sẽ có sự kiện lớn nhất trong năm của SheCodes!!! Hãy sẵn sàng cho một mùa hè nhiệt huyết với SheCodes Vietnam nha <3 Tìm hiểu thêm thông tin Shecodes Việt Nam tại: https://shecodesvietnam.tech/",
       
     },
   ]);
@@ -125,7 +125,7 @@ const Blog = (props) => {
               },
             }}
           >
-            <BlogImage src={article.images[0]} />
+            {/* <BlogImage src={article.images[0]} /> */}
             <BlogText>
               {parse(
                 pipe(article.content, [
