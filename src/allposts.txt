@@ -1,0 +1,848 @@
+{
+  "id": "204313523683384",
+  "name": "SheCodes Vietnam",
+  "photos": {
+    "data": [
+      {
+        "created_time": "2020-06-16T12:22:03+0000",
+        "name": "SHECODES VIETNAM CHÍNH THỨC THAY ÁO MỚI
+
+Bộ nhận diện mới của SheCodes hôm nay sẽ chính thức lên sóng, cùng với rất nhiều sự kiện mới đang chuẩn bị xuất hiện. Bật mí cho mọi người, trong số đó sẽ có sự kiện lớn nhất trong năm của SheCodes!!! Hãy sẵn sàng cho một mùa hè nhiệt huyết với SheCodes Vietnam nha <3
+Tìm hiểu thêm thông tin Shecodes Việt Nam tại: https://shecodesvietnam.tech/",
+        "id": "698611530920245"
+      },
+      {
+        "created_time": "2019-06-05T14:29:23+0000",
+        "name": "SHECODES HACKATHON 2019 -  CUỘC ĐUA SỐ DUY NHẤT TẠI VIỆT NAM DÀNH RIÊNG CHO PHÁI NỮ ĐÃ TRỞ LẠI!
+
+✎ Đăng ký ngay hôm nay tại: 
+http://hackathon.shecodesvn.tech/ 
+
+SheCodes Hackathon là cuộc thi phát triển phần mềm đầu tiên tại Việt Nam hướng đến đối tượng dự thi là nữ giới trong độ tuổi từ 16 trở lên với hy vọng thu hẹp khoảng cách giới tính trong lĩnh vực Công nghệ thông tin và thay đổi nhận thức của các bạn trẻ về tầm quan trọng của nhóm ngành này.
+
+Bước vào hành trình SheCodes Hackathon 2019, thí sinh và người tham dự sẽ có cơ hội:
+👾Tham gia các buổi workshop và tech talk có 1-0-2 nhằm trang bị những kiến thức, kĩ năng chuyên môn cần thiết trong ngành IT
+👾Thỏa sức sáng tạo, kề vai sát cánh cùng chị em đồng đội xây dựng và thực hiện những ý tưởng táo bạo, đột phá 
+👾 Kết nối với đội ngũ mentors cực “cool” cùng ban giám khảo là những chuyên gia, lập trình viên kỳ cựu, các nhà tuyển dụng đầu ngành
+👾 Được hỗ trợ ăn ở, trải qua 2 NGÀY 1 ĐÊM trong bầu không khí cởi mở, tràn đầy nhiệt huyết và hừng hực khí thế của các đội chơi
+👾 Đem về giải thưởng hấp dẫn và giấy chứng nhận từ tổ chức SheCodes Vietnam
+
+--------------------------------------------------
+Thông tin chi tiết vui lòng xem tại đây.
+
+SHECODES HACKATHON 2019 - You are not alone!
+Organized by SheCodes Vietnam
+➤ Thời gian: 13 - 14 tháng 07, 2019
+➤ Địa điểm: Hà Nội
+➤ Đối tượng dự thi: Nữ giới từ 16 tuổi trở lên
+➤ Link đăng ký: http://hackathon.shecodesvn.tech/ 
+➤ Link sự kiện: http://bit.ly/2MxGooD
+
+LIÊN HỆ:
+Email: shecodes.vietnam@gmail.com
+Hotline: 096 221 2556 (Ms. Dieu Linh) - 037 740 9453 (Ms. Phuong Nhi)
+Website: https://www.shecodesvn.tech/
+Fanpage: https://www.facebook.com/shecodesvietnam/",
+        "id": "439751756806225"
+      },
+      {
+        "created_time": "2018-05-07T14:36:43+0000",
+        "name": "SheCodes-Hackathon2018: “Women Empowerment in Tech”
+
+Vào ngày 07 tháng 07 năm 2018, SEEDS Vietnam xin hân hạnh tổ chức sự kiện SheCodes Hackathon với chủ đề “Women Empowerment in Tech”.  
+
+🌵 Nhắc đến Công Nghệ Thông Tin, người ta thường nghĩ ngay đến những chàng trai với cặp kính cận. Vì vậy, với sứ mệnh góp phần xây dựng một nền giáo dục chất lượng và đem lại những cơ hội công bằng cho phái nữ trên con đường học vấn, tổ chức  SEEDS Vietnam đã tổ chức chương trình thường niên SheCodes-Hackathon 2018 nhằm tạo cơ hội cho phái nữ đến gần hơn với lĩnh vực Công Nghệ Thông Tin (CNTT) và cơ hội để tìm hiểu thêm về con đường sự nghiệp trong lĩnh vực này. SEEDS Vietnam muốn cung cấp cho 100 người tham dự một cái nhìn hoàn toàn mới trong lĩnh vực CNTT bằng cách tạo ra bước đầu rút ngắn khoảng cách về giới tính, cùng sự góp mặt của 6 diễn giả và 10 công ty có tầm ảnh hưởng lớn trong lĩnh vực này. 
+ 
+🌱 Lần đầu tiên có mặt tại Việt Nam dưới hình thức all-female hackers, SheCodes Hackathon 2018 được tổ chức cùng với các sự kiện bên lề vô cùng ấn tượng:
+
+     💋 Workshops (07/07/2018-08/07/2018): Hướng dẫn về lập trình cơ bản với Javascript cũng như các công nghệ phát triển ứng dụng nhanh - dễ - mới như Pingendo, Vue JS, Strapi, Godot, Flutter.
+
+     💋 Panels (07/07/2018-08/07/2018): Panels với 2 chủ đề The Future of Blockchain Technolgy và Women in Tech sẽ chạy song song với các sự kiện chính khác trong không gian mở và ấm cúng, nhằm khuyến khích sự tương tác giữa khán giả và diễn giả.
+
+🌱 Cùng với sự góp mặt của đội ngũ diễn giả và khách mời uy tín, giàu kinh nghiệm, có tầm ảnh hưởng trong lĩnh vực CNTT, SEEDS Vietnam tin rằng sự kiện này sẽ đưa các bạn học sinh, sinh viên đến gần hơn với lập trình, khoa học máy tính và phát huy khả năng sáng tạo thông qua sự trợ giúp của công nghệ. 
+
+🌱 Với sự ủng hộ từ diễn giả, khán giả và các đơn vị báo chí, SEEDS Vietnam hy vọng thế hệ trẻ Việt Nam sẽ ngày càng tỏa sáng, vươn ra những vùng trời mới của cơ hội qua những thông điệp cốt lõi của SheCodes-Hackathon 2018.
+
+🌱 Thông tin của sự kiện: 
+Link đăng ký và website chính thức của sự kiện sẽ được cập nhật trong thời gian sắp tới.",
+        "id": "204356777012392"
+      }
+    ],
+    "paging": {
+      "cursors": {
+        "before": "QVFIUjI2ZAGd5MDJ3OVNmNjdnVGR5OXY2MlNjSWdta1djTWVxNnJKUEVwUlBwR3luaVJ5TmxKNTRaTTlXaGFQdTViRVE4UkhWTTM4M1J2UGs3d09BSlIxc1l3",
+        "after": "QVFIUjNTYlh3ZAVlaS1ZAuVmhyT0piZAUQyN3g5WjJkWHVHLWQ0SElSUl9SMmVya1l5Rzh5UldBQ25KVS1iNDJpU0YtQ3dPay11Y1ZAraGlqMkxseVoxek5tSWlR"
+      }
+    }
+  },
+  "videos": {
+    "data": [
+      {
+        "description": "[KHẢO SÁT LIỀN TAY - NHẬN QUÀ GHIỀN NGAY]
+👉👉Điền khảo sát ngay tại: https://forms.gle/adsd1fX5Sj1Ecsa87 
+
+✔️ Hackathon đã thành công rực rỡ nhưng không có nghĩa SheCodes quyết định dừng lại tại đây. Núi cao sẽ có núi cao hơn, tụi mình luôn tâm niệm và giữ vững quyết tâm cho ra lò những chương trình đã xịn càng thêm xịn dành cho phái nữ phát triển trong lĩnh vực công nghệ.
+
+✔️ Nhằm giúp dự án hoàn thiện tốt hơn, tụi mình mong các bạn nữ nhi, nam nhi ngoài kia cùng nhau hợp sức để lại trong link thật nhiều ý kiến, cảm nhận của các bạn. Đây là cơ hội để đôi bên thấu hiểu nỗi lòng chung và đẩy mạnh chất lượng các chương trình SheCodes hướng tới. 
+
+✔️ Cuối bài khảo sát, chúng mình có đính kèm một phần quà nhỏ bao gồm bộ tài liệu Big Data & Data Science application, Product management,... như một lời tri ân đến các bạn, những người đã luôn đồng hành cùng SheCodes trên con đường mang đến giá trị cho phái nữ. Năm 2021 này SheCodes tái xuất với một diện mạo mới ra sao, bạn hãy cùng đón chờ nhé!
+Tìm hiểu thêm về chúng tôi tại: https://shecodesvietnam.com/
+
+#SheCodesVietnam
+#survey",
+        "updated_time": "2021-01-22T03:53:14+0000",
+        "id": "1083500272113499"
+      },
+      {
+        "updated_time": "2020-10-25T02:21:08+0000",
+        "id": "4058615577486983"
+      },
+      {
+        "description": "SHECODES CHÚC MỪNG NGÀY PHỤ NỮ VIỆT NAM 20/10 ! 
+SheCodes chúc các bạn nữ có một ngày Phụ nữ thật hạnh phúc và ý nghĩa. Dù bạn có là ai, làm gì hay ở đâu, mong các bạn luôn luôn lạc quan, tự tin và bản lĩnh trên hành trình chinh phục những mục tiêu lớn của mình. Hãy nhớ rằng, chính các bạn là những bông hoa tươi đẹp nhất, rạng rỡ nhất <3 Nhớ yêu bản thân thật nhiều nhé !",
+        "updated_time": "2020-10-24T05:38:52+0000",
+        "id": "3335414816495076"
+      },
+      {
+        "description": "SHARK LIÊN RÓT VỐN ĐỒNG HÀNH CÙNG SHECODES VIETNAM
+📌 https://www.google.com/amp/s/amp.vnexpress.net/shark-lien-rot-hang-trieu-usd-cho-5-du-an-startup-4132405.html
+
+Ở tuổi bà ngoại, bên cạnh Bảo hiểm công nghệ LIAN, ứng dụng bảo hiểm tự động đầu tiên tại Việt Nam, “Bà đỡ U60” của Shark Tank Việt Nam với những màn đầu tư “đi vào lòng người” hướng tới giúp đỡ các startup giàu giá trị nhân văn và có khả năng lan toả năng lượng tích cực cho cộng đồng, Shark Đỗ Liên còn quyết định đồng hành cùng SheCodes Vietnam, mới đây nhất là khuôn khổ chương trình SheCodes Hackathon 2020 tại HCM.
+
+✍Trong lễ ký kết đầu tư của Shark với các công ty khởi nghiệp bên ngoài chương trình Shark Tank vừa diễn ra ngày 17/7 vừa qua, Shark khẳng định: “Với dự án SheCodes, Shark Liên cam kết định hướng, hỗ trợ và đồng hành cùng các nữ coder Việt Nam, đào tạo miễn phí các kỹ năng xây dựng đội ngũ nữ lãnh đạo cho cộng đồng công nghệ.”
+
+🙆Sự giúp đỡ của Ngoại là hậu phương vững chãi để các SheCoders vươn xa trên con đường truyền cảm hứng cho phái nữ dấn thân vào công nghệ trong năm nay và trong tương lai.
+
+👉Thay mặt cho hơn 300 nữ hackers, Ban tổ chức xin chân thành cảm ơn bà ngoại đã hết lòng ủng hộ SheCodes Vietnam ❤
+__________________________________________________________
+ĐỪNG BỎ LỠ NHỮNG CẬP NHẬT MỚI NHẤT VỀ NHỮNG CHƯƠNG TRÌNH THÚ VỊ SẮP TỚI CỦA SHECODES VIETNAM TẠI:
+➤ Fanpage: https://www.facebook.com/shecodesvietnam/
+➤ Website: https://shecodesvietnam.tech/
+➤ Group cộng đồng SheCodes Hackathon: https://www.facebook.com/groups/shecodes.hackathon/",
+        "updated_time": "2021-01-15T14:06:15+0000",
+        "id": "713633636084446"
+      },
+      {
+        "description": "⭐️ Sau gần 2 ngày thi đấu liên tục, hành trình của các bạn thí sinh tham gia Shecodes Hackathon đang dần đi đến hồi kết, ngay sau đây phần trao giải của đêm Chung Kết sẽ bắt đầu!",
+        "updated_time": "2020-09-06T09:11:24+0000",
+        "id": "3035067563267980"
+      },
+      {
+        "description": "⭐️ [TRỰC TIẾP] CHUNG KẾT SHECODES HACKATHON HÀ NỘI SẼ DIỄN RA TRONG ÍT PHÚT NỮA
+-
+⭐️ Vòng chung kết gồm Top 10 các đội thi đấu đã sắp diễn ra rồi đó mọi người ơi!
+
+👩‍💻 Hôm nay bạn sẽ cổ vũ cho đội nào nhỉ?",
+        "updated_time": "2020-09-06T09:12:55+0000",
+        "id": "939052539899985"
+      },
+      {
+        "description": "🔊 [TechTalk]
+🔥 Hot take: research scientists vs software engineers
+👩🏻‍🎓 Sau đại học: đi làm nghiên cứu hay làm kỹ sư nghiên cứu?",
+        "updated_time": "2020-11-18T04:12:24+0000",
+        "id": "1002503123519679"
+      },
+      {
+        "description": "[TechTalk]
+Chiến lược giải quyết bài toán học máy",
+        "updated_time": "2020-11-18T04:12:28+0000",
+        "id": "3207336872694626"
+      },
+      {
+        "description": "[TechTalk]
+Hệ thống đám mây và ứng dụng cho startups",
+        "updated_time": "2021-01-13T09:10:01+0000",
+        "id": "1186361448363955"
+      },
+      {
+        "description": "[TRỰC TIẾP]
+LỄ KHAI MẠC SHECODES HACKATHON 2020 TẠI HÀ NỘI ⚡️⚡️⚡️",
+        "updated_time": "2020-11-18T04:12:39+0000",
+        "id": "340311356981280"
+      },
+      {
+        "description": "[TRỰC TIẾP] CHUNG KẾT TOP 5 VÀ TRAO GIẢI SHECODES HACKATHON HỒ CHÍ MINH",
+        "updated_time": "2020-10-27T17:12:17+0000",
+        "id": "3621422074553988"
+      },
+      {
+        "description": "[TRỰC TIẾP] TECHTALK: AI 101",
+        "updated_time": "2020-07-26T07:54:47+0000",
+        "id": "2594687637457873"
+      },
+      {
+        "description": "[TRỰC TIẾP] SINH HOẠT NGÔI NHÀ CHUNG - SHECODES HACKATHON HCM",
+        "updated_time": "2020-09-30T15:50:16+0000",
+        "id": "345995553060860"
+      },
+      {
+        "description": "[TRỰC TIẾP] Workshop: Hello AWS - Python trên Cloud",
+        "updated_time": "2020-09-13T10:48:56+0000",
+        "id": "297993871317610"
+      },
+      {
+        "description": "[TRỰC TIẾP] LỄ KHAI MẠC SHECODES HACKATHON HCM 2020 - CODE CÁCH QUÝ CÔ",
+        "updated_time": "2020-11-04T01:46:34+0000",
+        "id": "1365581966984305"
+      },
+      {
+        "description": "[RECAP] NHÌN LẠI WEBINAR CODING OVERSEA
+ 
+💻Với SheCodes, ngày hôm nay là một dấu mốc vô cùng quan trọng khi đã vinh dự được đồng hành cùng 2 vị diễn giả tài năng tạo nên buổi Webinar rất ý nghĩa để hỗ trợ các bạn trẻ Việt Nam nâng cấp CV Tech của bản thân và có thêm động lực cạnh tranh nơi biển lớn.
+
+💻Những thành công ấy của SheCodes sẽ không thể có được nếu không có sự hỗ trợ của hai anh chị diễn giả đầy nhiệt huyết: anh Thiện-Hòa Lê và chị Chi Phạm. SheCodes Vietnam xin gửi lời cảm ơn chân thành và sâu sắc đến hai anh chị và xin chúc anh chị luôn thành công trên con đường sự nghiệp.
+
+💻Link trả lời thêm các câu hỏi của các bạn tham dự: https://docs.google.com/document/d/1QBdijSD6oA5JS73Dn4Mpp6qYlWsNT16TIENzF03W8Fw/edit?usp=sharing
+
+💻Một phần lớn thành công của Coding Oversea cũng nhờ vào sự ủng hộ của các bạn IT đã tích cực tham gia và đặt ra những câu hỏi cho các diễn giả. Webinar đã thu hút hơn 200+ lượt đăng ký cùng 98 người tham gia đầy nhiệt huyết. SheCodes Vietnam rất hi vọng những chia sẻ trong buổi webinar hôm nay sẽ giúp được các bạn trên con đường IT!
+ 
+Tuy nhiên, Coding Oversea chưa phải hồi kết mà mới chỉ là khởi đầu cho chuỗi webinar công nghệ của SheCodes Vietnam. Mọi người đừng quên bấm “See first” và theo dõi SheCodes Vietnam để cập nhật thông tin nhé. Hẹn gặp lại các bạn tại những webinar sau của SheCodes!
+
+#Shecodes #CodingOversea #TechCareerFair2020",
+        "updated_time": "2021-01-18T14:52:01+0000",
+        "id": "1608169986012740"
+      },
+      {
+        "description": "4 CÂU CHUYỆN CHƯA KỂ VỀ HACK
+
+SheCodes Hackathon 2020 TUYỂN MENTOR - Be A Decoder
+➤ Hạn đăng ký: 20/5/2020
+➤ Thời gian: 1/6/2020 - 31/7/2020
+➤ Địa điểm: Hà Nội & Hồ Chí Minh
+➤ Link đăng ký: https://forms.gle/BbQM37kWcsMQFQRw7
+----------------------
+Bạn đã bắt gặp những hiểu lầm sau đây bao nhiêu lần:
+- Hacker 100% là các tội đồ cho những sự cố như tài khoản Facebook bị khóa, fanpage vài trăm nghìn like bị “bay màu”;
+- Công việc chính của các hacker là cài các đoạn mã độc và virus vào máy tính mọi người để lấy cắp thông tin;
+- ….
+
+Đúng là việc hack bao gồm những điều trên, tuy nhiên đó mới chỉ là một phần rất nhỏ trong thế giới của các hacker. Trong bài viết này, hãy cùng SheCodes tìm hiểu những tiếng oan mà các hacker và việc hack nói chung phải hứng chịu nhé.
+
+1. Việc hack 100% là bất hợp pháp
+
+Mặc dù một phần lớn các hacker thường thực hiện các hành vi trái pháp luật như đánh cắp thông tin hoặc tống tiền nạn nhân, có rất nhiều hacker đang sử dụng những kỹ năng của họ để chống lại những hành động xấu trên. Họ là những hacker mũ trắng, công việc của họ là tìm ra những cách để vượt hàng rào bảo mật và xác định những điểm yếu trong hệ thống bảo mật, tất nhiên là với sự cho phép của công ty. Những hacker này giúp công ty cải thiện sản phẩm của mình tốt hơn và tránh được rất nhiều vụ kiện tụng đến từ phía khách hàng. 
+
+2. Các hacker phải hoàn thành công việc với tốc độ ánh sáng
+
+Rất nhiều người tin vào truyền thuyết này do các bộ phim Hollywood đã thần thánh hóa việc hack để tăng độ hấp dẫn cho phim. Trong thực tế, các hacker sử dụng rất nhiều công cụ, phần mềm và bot để xâm nhập vào hệ thống. Trong lúc những công cụ này hoạt động, các hacker có thể thoải mái thư giãn cho đến khi chúng xong việc.
+
+3. Hacker đều là những con sói đơn độc, làm việc một mình
+
+Những hacker có chuyên môn cao thường được thuê bởi các tổ chức lớn, như các tổ chức tội phạm hoặc thậm chí là chính phủ, để thực hiện những dự án mang tầm cỡ quốc tế. Các cộng đồng hacker trên thế giới cũng hoạt động rất sôi nổi, tiêu biểu là nhóm Anonymous, nhóm hacker hoạt động với mục tiêu bảo vệ quyền tự do trên Internet của mọi người dùng. Các hacker thuộc Anonymous đã thực hiện nhiều dự án với quy mô quốc tế, trong đó có dự án đánh sập các trang web khiêu dâm trẻ em và tấn công nền tảng tuyển thành viên của IS. 
+
+4. Một loại mã độc có thể hack tất cả các hệ thống trên đời
+
+Một ví dụ điển hình của hiểu lầm này là trong bộ phim “Ngày độc lập”, một nhân vật đã đánh sập tàu chiến của người ngoài hành tinh bằng cách cài virus vào nó. Trong thực tế, một mã độc thậm chí còn gần như không thể hoạt động trên các phiên bản khác nhau của cùng một hệ điều hành. Vì vậy, cảnh phim kia chỉ có thể trở thành hiện thực nếu người ngoài hành tinh cũng sử dụng hệ điều hành MacOS!
+
+Ngoài những điều trên, còn những hiểu lầm nào khác về việc hack mà bạn muốn giải đáp? Hãy chia sẻ điều đó với SheCodes nhé.
+
+Ngoài ra, chương trình tuyển mentor Be A Decoder của SheCodes vẫn đang diễn ra. Hãy gia nhập đội ngũ SheCodes để đưa công nghệ thông tin và hack nói riêng đến gần các bạn nữ hơn nhé!
+
+-----------------------------------------------------
+
+SheCodes Hackathon 2020 - Be A Decoder
+➤ Hạn đăng ký: 20/5/2020
+➤ Thời gian: 1/6/2020 - 31/7/2020
+➤ Địa điểm: Hà Nội
+➤ Link đăng ký: https://forms.gle/cnDRxmkyWYKEk7WVA 
+
+LIÊN HỆ:
+Email: nhitran.shecodes@gmail.com
+Hotline: 0943 687 855 (Ms. Vân)
+Fanpage: https://www.facebook.com/shecodesvietnam/
+
+Gia nhập cộng đồng SheCodes Hackathon tại:
+https://www.facebook.com/groups/shecodes.hackathon/",
+        "updated_time": "2020-08-17T17:42:18+0000",
+        "id": "340556496905998"
+      },
+      {
+        "updated_time": "2020-04-24T06:30:23+0000",
+        "id": "220682742518228"
+      },
+      {
+        "updated_time": "2020-04-24T06:30:23+0000",
+        "id": "541685783433907"
+      },
+      {
+        "updated_time": "2020-04-24T06:30:23+0000",
+        "id": "2822500654464220"
+      },
+      {
+        "updated_time": "2020-04-24T06:30:23+0000",
+        "id": "678877326210960"
+      },
+      {
+        "updated_time": "2020-04-24T06:30:23+0000",
+        "id": "221285649208188"
+      },
+      {
+        "description": "[Sponsor by #HCHVLive] Tech talk: Khi bóng hồng dấn thân vào công nghệ
+#HCHVASIA",
+        "updated_time": "2020-04-22T08:36:32+0000",
+        "id": "353300088941229"
+      },
+      {
+        "description": "[Sponsor by #HCHVLive] Workshop: Cloud Computing (điện toán đám mây) - Amazon Web Service
+#HCHVASIA",
+        "updated_time": "2020-04-23T10:19:47+0000",
+        "id": "833743637009935"
+      },
+      {
+        "description": "AIRPODS ĐẲNG CẤP, CÓ VỪA LÒNG BẠN?
+
+Vào tối 20/3, Apple AirPods thế hệ mới đã được Apple âm thầm công bố trên website của mình. Điểm nổi bật của cặp tai nghe đó chính là sử dụng chip điều khiển H1 hoàn toàn mới thay thế cho chip W1, giúp tăng thời gian sử dụng và thêm mới tính năng gọi Siri bằng giọng nói. Cụ thể, với mỗi lần sạc, nó cho phép người dùng nghe nhạc trong vòng 5h hay 3h trò chuyện (trước đó là 2 giờ).
+
+Nhờ chip H1, tai nghe có thể dễ dàng kết nối với nhiều iPhone khi được đặt ở gần. Hơn nữa sự thông minh của nó còn thể hiện mở mức độ khi người dùng đeo lên tai thì nó sẽ tự hoạt động, khi tháo tai nghe ra thì tự tắt, và đeo hai tai vừa nghe nhạc stereo và có thể đàm thoại được. Đó chính là nhờ vào cảm biến gia tốc hay quang học để có thể biết khi nào người dùng đeo chúng và đảm bảo việc kết nối liên tục. 
+
+Không dừng lại việc kết nối với các Iphone mà Airpods còn có tự động kết nối với tất các các thiết bị Apple, gồm cả iPod với MacBook và dễ dàng lựa chọn để nghe với tai nghe từ các thiết bị đó. 
+
+Khi mua AirPods phiên bản 2019, chúng ta có 2 lựa chọn: mua kèm hộp sạc không dây với giá bán 199 USD hoặc hộp sạc thường bằng dây Lightning với giá 159 USD. Hãng cũng sẽ bán riêng hộp sạc không dây với giá là 79 USD để những ai đang sử dụng phiên bản đầu tiên có thể nâng cấp tính năng này mà không cần phải mua mới một cặp tai nghe khác. 
+
+Và cũng có thể nhận thấy rằng, Apple vẫn trung thành với màu trắng huyền thoại của mình ở dòng sản phẩm này. Vậy những tín đồ Black AirPods vẫn đành ngậm ngùi với sự lựa chọn duy nhất hiện có. Còn bạn, bạn có phải là một trong số những người đang chờ đợi Black AirPods không? Hãy comment cho tụi mình biết nhé!
+Nguồn: GenK, baomoi.com
+
+----------------------------
+
+Để theo dõi thông tin chi tiết về những sự kiện sắp tới của SheCodes Vietnam, bạn vui lòng truy cập:
+► Fanpage: https://www.facebook.com/shecodesvietnam/
+► Website: http://www.shecodesvn.tech/",
+        "updated_time": "2019-10-27T10:00:04+0000",
+        "id": "386348958583946"
+      }
+    ],
+    "paging": {
+      "cursors": {
+        "before": "MTA4MzUwMDI3MjExMzQ5OQZDZD",
+        "after": "Mzg2MzQ4OTU4NTgzOTQ2"
+      },
+      "next": "https://graph.facebook.com/v9.0/204313523683384/videos?access_token=EAAZAX7QniJR4BAGWewXQshp4QB0UVyJLW2UbwiIL6srmUhChazpCoOlFSDFS7oZBc1QC9wAQzdPu2IKowlLbfO7PthDVeOFJNguPycNbYQmKnnreUzDCZBasOXGDVUm7YartLSF2zKH9uKdxUNhogKs0cdwdDHfhJAlqxWiFjVwAv9FHrQwajglM3vsT7OAMD91zaChLQZDZD&pretty=0&limit=25&after=Mzg2MzQ4OTU4NTgzOTQ2"
+    }
+  },
+  "published_posts": {
+    "data": [
+      {
+        "created_time": "2021-01-21T14:00:35+0000",
+        "story": "SheCodes Vietnam followed Developer Circles Vietnam Innovation Challenge.",
+        "id": "204313523683384_854538891994174"
+      },
+      {
+        "created_time": "2021-01-18T11:48:19+0000",
+        "message": "[Chia sẻ cơ hội]
+Với vai trò đối tác hỗ trợ các chương trình cuộc thi về CNTT tại Việt Nam, lần này SheCodes xin chia sẻ cơ hội tham gia giải đấu lập trình đến từ Shopee cho cộng đồng các SheCoders 👩‍💻👩‍💻
+Ngoài các giải thưởng chính, cuộc thi sẽ có thêm giải thưởng tiền mặt trị giá $500 SGD dành cho top team với 100% thành viên là nữ coders. Chúc mọi người may mắn! #codelikeagirl
+---------------------------------------------------------------
+
+Bạn đã sẵn sàng để tham gia Giải đấu Lập trình Online lớn nhất của Shopee chưa?
+
+Sau thành công năm 2020, Shopee Code League 2021 mùa hai sẽ trở lại vào ngày 6 - 20 tháng 3 sắp tới!
+
+Đây là một sân chơi không thể bỏ qua đối với các bạn sinh viên và chuyên gia trong toàn khu vực để thử sức và thi đấu về khả năng lập trình của mình.
+
+Thành lập ngay một team từ 2 đến 4 thành viên để chinh phục những bài toán thực tế về data analytics, data science và thuật toán được thiết kế đặc biệt với đội ngũ Kỹ sư của Shopee. Ngoài ra, bạn còn có thể nâng cao kỹ thuật của mình thông qua hàng loạt hội thảo chuyên đề miễn phí của cuộc thi nữa đấy!
+
+Lên lịch hẹn và tham gia ngay Giải đấu Lập trình đáng mong đợi của năm cùng Shopee tại https://careers.shopee.com/codeleague/
+Tìm hiểu thêm về SheCodes Vietnam tại: https://shecodesvietnam.com/
+
+#ShopeeCodeLeague #TechAtShopee #datanalytics #datascience #coding #SheCodes",
+        "id": "204313523683384_852694572178606"
+      },
+      {
+        "created_time": "2021-01-13T04:36:26+0000",
+        "story": "SheCodes Vietnam followed Viet UX-PM - A community of Viet Product Designers and Managers.",
+        "id": "204313523683384_849655102482553"
+      },
+      {
+        "created_time": "2021-01-12T14:32:00+0000",
+        "message": "[KHẢO SÁT LIỀN TAY - NHẬN QUÀ GHIỀN NGAY]
+👉👉Điền khảo sát ngay tại: https://forms.gle/adsd1fX5Sj1Ecsa87 
+
+✔️ Hackathon đã thành công rực rỡ nhưng không có nghĩa SheCodes quyết định dừng lại tại đây. Núi cao sẽ có núi cao hơn, tụi mình luôn tâm niệm và giữ vững quyết tâm cho ra lò những chương trình đã xịn càng thêm xịn dành cho phái nữ phát triển trong lĩnh vực công nghệ.
+
+✔️ Nhằm giúp dự án hoàn thiện tốt hơn, tụi mình mong các bạn nữ nhi, nam nhi ngoài kia cùng nhau hợp sức để lại trong link thật nhiều ý kiến, cảm nhận của các bạn. Đây là cơ hội để đôi bên thấu hiểu nỗi lòng chung và đẩy mạnh chất lượng các chương trình SheCodes hướng tới. 
+
+✔️ Cuối bài khảo sát, chúng mình có đính kèm một phần quà nhỏ bao gồm bộ tài liệu Big Data & Data Science application, Product management,... như một lời tri ân đến các bạn, những người đã luôn đồng hành cùng SheCodes trên con đường mang đến giá trị cho phái nữ. Năm 2021 này SheCodes tái xuất với một diện mạo mới ra sao, bạn hãy cùng đón chờ nhé!
+Tìm hiểu thêm về chúng tôi tại: https://shecodesvietnam.com/
+
+#SheCodesVietnam
+#survey",
+        "id": "204313523683384_849328342515229"
+      },
+      {
+        "created_time": "2020-12-19T03:52:51+0000",
+        "message": "[SHECODES HỖ TRỢ TRUYỀN THÔNG]
+
+Summit Update 2020: Năm Covid - Chính sách tuyển sinh các trường top Mỹ có gì khác?
+Cơ hội Giao lưu trực tiếp với chuyên gia 10+ năm kinh nghiệm & các sinh viên ĐH top Mỹ!
+
+📅 14h30 CHỦ NHẬT 27/12/2020 TẠI TẦNG 3 SUMMIT 101 LÁNG HẠ
+>>> Không thể bỏ lỡ, đăng ký ngay chỗ ngồi có hạn tại: https://summit.edu.vn/DH2712 
+
+Với những biến động toàn cầu vì dịch Covid, chính sách tuyển sinh của các trường ĐH hàng đầu Mỹ có gì thay đổi❓
+   
+Làm thế nào để chuẩn bị hồ sơ nổi bật, dễ ghi điểm nhất theo xu hướng mới cho mùa app năm tới❓
+
+Đây chính là sự kiện du học Mỹ - Canada uy tín mà quý PHHS đang quan tâm đến du học trong năm 2021-2022 không thể bỏ lỡ!
+
+Đặc biệt, quý phụ huynh & học sinh có thể chủ động giao lưu thêm với các bạn học sinh tiêu biểu/ cố vấn du học vào cuối giờ, sau khi chương trình giao lưu chính kết thúc. Sẽ có trên 30 khách mời phụ huynh, tân sinh viên, sinh viên năm 1-2-3-4 của các trường ĐH top đầu Mỹ/Canada tham dự!
+
+Trong sự kiện này, các cố vấn cấp cao với trên 10 năm kinh nghiệm của Summit sẽ cung cấp số liệu cập nhật nhất về xu hướng mới nhất du học Mỹ-Canada 2021-2022, sau 1 năm “Covid” đầy biến động, cùng những thông tin nóng hổi về kết quả nộp hồ sơ vào nhóm trường top đầu của Mỹ năm học 2020-2021. 
+
+Những câu chuyện, ví dụ sống động và thiết thực về bí quyết chinh phục hội đồng tuyển sinh khó tính. 
+
+Chính sách HỖ TRỢ TÀI CHÍNH - HỌC BỔNG của các ĐH hàng đầu top 1-50 Mỹ và top 5 Canada cũng sẽ được đề cập một cách chi tiết tại “SUMMIT UPDATE 2020”.
+
+Quý PHHS sẽ được gặp gỡ, giao lưu trực tiếp tại các bàn booth với thế hệ các học viên Summit hiện là sinh viên/tân sinh viên thành công đã xuất sắc chinh phục các Hội đồng tuyển sinh khó tính bậc nhất thế giới với tỷ lệ trúng tuyển chỉ 5% - 10%!
+
+Danh sách khách mời:
+⭐ Mai Thiên Bình & phụ huynh của bạn: trúng tuyển ED1 ĐH Vanderbilt (#14 NU), học bổng $250,000/4 năm
+⭐ Nguyễn Trần Đức Anh: trúng tuyển ED1 ĐH Rice (#16 NU), học bổng $260,000/4 năm
+⭐ Trần Khôi Nguyên: trúng tuyển ED1 ĐH Rochester (#34 NU) ​
+⭐ Nguyễn Xuân Huy: trúng tuyển ED1 ĐH Grinnell (#13 LAC), học bổng ~$170,000/4 năm
+⭐ Triệu Hà My: trúng tuyển ED1 ĐH Vassar (#13 LAC)
+⭐ Nguyễn Ngọc Hà: trúng tuyển ED1 ĐH Colgate (#20 LAC)
+⭐ Vương Thùy Linh, sinh viên năm 3 ĐH Dartmouth (Ivy League, #13 NU) với học bổng toàn phần ~ $260,000/4 năm
+⭐ Nguyễn Tiến Thành, cựu sinh viên Duke (#12 NU), học bổng toàn phần tiến sĩ Yale (Ivy League, #4 NU)
+⭐ Nguyễn Hoàng Dương: trúng tuyển ED1 ĐH Case Western (#42 NU), học bổng $200,000/4 năm
+⭐ Lê Khoa Vũ: trúng tuyển ED1 ĐH Case Western (#42 NU), học bổng $200,000/4 năm
+⭐ Đàm Quang Trung: trúng tuyển ED1 ĐH Macalester (#27 LAC), học bổng $210,000/4 năm
+(đang tiếp tục cập nhật các khách mời do các kết quả ED1 đang ra tiếp đến ngày 22/12)
+
+Nội dung các panel chia sẻ:
+
+1. Chia sẻ kinh nghiệm apply & xin học bổng thành công ĐH top 1-50 Mỹ trong năm Covid   
+Thành phần: Phụ huynh và học sinh apply thành công & cố vấn Summit 10-15 năm kinh nghiệm!
+2.  Chia sẻ kinh nghiệm học tập và xin thực tập/ việc làm trong và sau năm 2020
+3.  \"Summit Fair\" - giao lưu tự do với các đại diện học sinh đỗ ED1 năm nay/ SV hiện tại các trường top đầu 2 khối National Uni & LAC Mỹ tại các bàn booth
+
+Đăng ký giữ chỗ ngay, chỗ ngồi có hạn: 
+Đăng ký online: https://summit.edu.vn/DH2712 
+Đăng ký qua hotline: 090 170 2889 ấn phím 2
+Đăng ký trực tiếp tại: 
+✅ Tầng 2-3, 101 Láng Hạ, HN 
+✅ Tầng 2, Discovery Complex 302 Cầu Giấy, HN
+✅ Tầng 2, 352 Phố Huế, Hai Bà Trưng, HN 
+✅ Tầng 5, 564 Nguyễn Văn Cừ, Long Biên, HN",
+        "id": "204313523683384_834531307328266"
+      },
+      {
+        "created_time": "2020-12-12T13:28:46+0000",
+        "message": "[HTTT]
+ONLINE WEBINAR: Vượt qua Covid 19: Mô hình Kinh Doanh Nền tảng Tối ưu Thời kỳ “Bình thường Mới\" 
+Diễn giả: Lê Hàn Tuệ Lâm, General Manager của quỹ đầu tư Nextrans
+
+Mô hình Kinh doanh Nền tảng (Platform Business Model) là một hình thức kinh doanh dựa trên việc tạo ra những giao dịch có giá trị giữa nhà sản xuất và người tiêu dùng. Nhiều mô hình kinh doanh nền tảng (VD: Uber, Airbnb) đã mang lại những ảnh hưởng mang tính cách mạng đến cuộc sống. Tuy nhiên, trước ảnh hưởng của Đại dịch Covid-19, các nhà kinh doanh cần phải làm gì để đối mặt và chuyển mình?
+
+Agenda:
+➤ Mô hình Kinh doanh Nền Tảng
+1. Sự chuyển mình của mô hình Kinh doanh Nền Tảng trên toàn cầu cũng như tại Việt Nam trong thời kì hậu Covid-19
+2. Thay đổi trong sự cạnh tranh giữa startups Nền Tảng \"thuần Việt\" và startups Nền Tảng toàn cầu trong thời kỳ \"bình thường mới\", và cơ hội cho startups Nền Tảng Việt
+➤ Q&A trực tiếp với diễn giả
+➤ Thử Thách
+1. Nhận xét chung về bài làm và định hướng cách giải quyết
+2. Công bố TOP 3 của phần thử thách
+
+Hãy cùng diễn giả Tuệ Lâm và các bạn sinh viên tìm lời giải đáp trong sự kiện Webinar đầu tiên của UpYouth. 
+
+Đừng quên comment để lại câu hỏi dành cho diễn giả khách mời trong mục bình luận livestream ở dưới nhé.",
+        "story": "SheCodes Vietnam",
+        "id": "204313523683384_830310357750361"
+      },
+      {
+        "created_time": "2020-12-08T12:30:40+0000",
+        "message": "[HỖ TRỢ TRUYỀN THÔNG]
+💕 WEBINAR - CHIA SẺ HÀNH TRÌNH CÔ GÁI VIỆT TỪ VIỆT NAM VƯƠN MÌNH RA THẾ GIỚI 🌎
+Viet UX-PM - A community of Viet Product Designers and Managers, tổ chức được sáng lập bởi các anh chị Product Managers/ Startup Founders tại US và Việt Nam nhằm support cộng đồng các bạn Việt trẻ theo đuổi một trong những lĩnh vực Product Management hot nhất hiện nay.
+📌Vì sao PM lại hot?
+💰 Mức lương siêu khủng, là vị trí được săn đón cả trong và ngoài nước, khi công nghệ ngày càng phát triển, đòi hỏi các sản phẩm được đóng gói và thương mại hoá nhanh chóng trong 1 nền kinh tế thị trường cạnh tranh
+💎 Một vị trí đầy thách thức, đòi hỏi nắm vững nhiều khía cạnh, cả về chuyên môn như business, technology, UIUX Design, sense of data...hay kĩ năng mềm như deal with stackholders, technical leaders..cùng leadership skills.
+📈 Với rất nhiều requirements và đãi ngộ lớn như vậy, không khó hiểu khi PM thường được yêu cầu cao về cả bằng cấp và kinh nghiêm.
+👉 Nhận thấy được nhiều mong muốn của các bạn trẻ, đặc biệt các bạn chưa có nhiều kinh nghiệm, bằng cấp, nghiêm túc theo đuổi lĩnh vực này, lần này, Viet UX-PM mời đến diễn giả của webinar với một số thông tin:
+Diễn giả: chị Mai Đỗ, hiện là Product Lead, AI tại Twitter, former PM @ Amazon & Apple
+Chủ đề chia sẻ Viet UX-PM Webinar: Navigate PM career path without an MBA
+Nội dung chính: Chia sẻ con đường từ cô gái nhỏ bé ở Việt Nam, đặt chân đến ông lớn US và trở thành PM trong các công ty công nghệ hành đầu, thảo luận về việc vì sao MBA lại là một yếu tố thường được xem xét khi tuyển PM; và những cách bạn có thể trở thành PM và thăng tiến trong sự nghiệp mà chưa cần đến bằng MBA
+Đồng hành cùng diễn giả là anh Việt Phương, thành viên Viet UX-PM đồng thời là Lead of PM tại Seedcom, do vậy các bạn có thể thoải mái đặt các câu hỏi cho cả 2 anh chị nhé ^^.
+🌱 Thông tin sự kiện:
+Việt Nam: Chủ nhật, 13/12 lúc 9h sáng
+New York: Thứ 7, 12/12 lúc 9h tối
+San Francisco: Thứ 7, 12/12 lúc 6h tối
+🌱 Đăng ký ngay tại:
+https://www.eventbrite.com/e/viet-ux-pm-webinar-navigate-pm-career-path-without-an-mba-tickets-131273788435?fbclid=IwAR2arKRIu6XQZ7kLs3xQMHjU6YSW10-FcEp-SiwSVvLB5nlkxGIOwuv7JmI",
+        "id": "204313523683384_827509744697089"
+      },
+      {
+        "created_time": "2020-12-02T03:30:31+0000",
+        "message": "[HTTT]
+
+NGÀY HỘI ĐƯỜNG ĐẾN TRI THỨC: “VƯƠN(G)”
+Sắp tới, dự án Đường Đến Tri Thức sẽ tổ chức workshop cung cấp kiến thức cho trẻ mái ấm, với sự tham gia của các bạn học sinh - sinh viên trong chủ đề “VƯƠN(G)”.
+“Vươn” có nghĩa là sự vươn đến những thành tựu khoa học hiện đại.
+“Vương” cũng là vương vấn, là dấu ấn còn đọng của truyền thống văn hóa và nghệ thuật. 
+Trong “Vương” luôn tồn tại song song “Vươn”, rằng khoa học và truyền thống luôn tồn tại và phát triển song hành với nhau. 
+Và đó là mục tiêu của workshop “VƯƠN(G)”, để cộng đồng có cái nhìn mới về giá trị truyền thống, giao thoa với những tiến bộ khoa học, đồng thời lan toả SUGAR Spirit đến các bạn trẻ.
+SỰ KIỆN ĐƯỢC MỞ BÁN VÉ VÀO NGÀY 1.12.2020 TRÊN FANPAGE SUGAR Vietnam - Đường Đến Tri Thức. 
+---------
+Mọi thông tin và câu hỏi liên quan liên hệ:
+Email: ddtt@projectsugar.org
+Sđt: 0903872278 (Ms.Phương)",
+        "id": "204313523683384_823162991798431"
+      },
+      {
+        "created_time": "2020-11-21T13:34:52+0000",
+        "message": "[SheCodes’s Awards]
+2020 là 1 năm đầy khó khăn, thách thức nhưng cũng không ít cơ hội để toàn thể SheCodes Việt Nam chúng mình cố gắng không ngừng nghỉ, tiến về phía trước. 
+Tự hào hơn cả, những nỗ lực ngày đêm bước đầu đã được ghi nhận khi SheCodes Việt Nam chính thức trờ thành Đại sứ thúc đẩy Bình đăng giới và đa dạng tại Việt Nam năm 2020 do UN Women, Irish Embassy in Vietnam và CSDS VN trao tặng. 
+Để đạt được những bước đi đầu tiên, SheCodes Việt Nam không thể không gửi lời cảm ơn chân thành nhất tới tất cả anh, chị mentor, các bạn members để chúng ta tiếp tục thực hiện sứ mệnh khai phá tiềm năng của các bạn nữ, không phân biệt thành thị nông thôn, góp phần vào công cuộc chuyển đổi số tại Việt Nam, để không còn ai bị bỏ lại phía sau ❤️
+👉👉👉 Hãy cùng ủng hộ và chờ đón những sự thay đổi mới mẻ hơn nữa của chúng mình giai đoạn 2021-2022 tới nhé ^^
+#SheCodesVietnam #Womenintech",
+        "id": "204313523683384_815842732530457"
+      },
+      {
+        "created_time": "2020-11-18T02:00:24+0000",
+        "message": "[HỖ TRỢ TRUYỀN THÔNG] 
+
+📢 VỀ VỚI ĐỘI CỦA WITECH VIỆT NAM 📢 
+Sau một thời gian dài chờ đợi, WiTech Việt Nam xin chính thức thông báo: ĐỢT TUYỂN THÀNH VIÊN CHÍNH THỨC NHIỆM KÌ 20/21 ĐÃ BẮT ĐẦU. 🔥
+WiTech Việt Nam là một chapter (vệ tinh) của tổ chức WiTech được thành lập tại Philippines vào năm 2016 với sứ mệnh giáo dục, truyền cảm hứng, và thúc đẩy thế hệ trẻ, đặc biệt là nữ giới, theo đuổi đam mê trong các ngành STEM (Science/ Technology/ Engineering/ Math) bằng cách tạo ra cơ hội học hỏi và phát triển bản thân. Các hoạt động cộng đồng mà WiTech Việt Nam hướng đến bao gồm: hội thảo về phụ nữ trong ngành công nghệ (WiTCon), hackathons, IG takeover series, coding workshops, etc. nhằm cung cấp tài nguyên và cơ hội kết nối với những người đi trước trong ngành cho thế hệ trẻ Việt Nam. 
+WiTech Việt Nam hiện đang tìm kiếm những mảnh ghép cuối cùng cho đội ngũ nhiệm kì đầu tiên 2020-2021. WiTech hiện đang rất cần những bạn trẻ nhiệt huyết, năng động, và có cùng lý tưởng. CHÚNG TÔI CẦN BẠN! 
+Chúng tôi đang tìm kiếm thành viên chính thức cho các ban: 
+💡 Quản lí/ Operations
+💡 Sáng tạo/ Creatives
+💡 Sự kiện/ Event
+💡 Truyền thông/ Marketing
+💡 Tài chính/ Finance
+💡 Ngoại giao/ Outreach
+Để trở thành một phần của đại gia đình WiTech với các tổ chức vệ tinh trên toàn cầu, hãy ứng tuyển ngay hôm nay! 
+📝 Recruitment Form: http://bit.ly/WTVN21CORE
+⏰ Deadline: November 21, 2020 GMT+7
+----------
+Mọi câu hỏi và thắc mắc xin gửi về: 
+📩  Mail: vietnamchapter@witech.org
+📲  Facebook: WiTech Vietnam
+📲  Instagram: instagram.com/witech.vietnam",
+        "id": "204313523683384_813062072808523"
+      },
+      {
+        "created_time": "2020-11-10T04:05:01+0000",
+        "message": "[Cơ hội tình nguyện]
+SheCodes chia sẻ cơ hội trở thành Program Assistant ngắn hạn cho chương trình tình nguyện hỗ trợ phái nữ dân tộc thiểu số Việt Nam tìm hiểu về Leadership và Entreureurship. Đây là chương trình được tổ chức bởi chức NGO Artistri Sud thành lập tại Canada.
+
+Các chi phí ăn ở sinh hoạt sẽ được chi trả bởi Artistri Sud. Bạn cần di chuyển tới địa điểm tập huấn tại Lào Cai 2-3 lần / tuần 
+
+Các bạn hứng thú có thể xem thông tin chi tiết dưới đây: https://docs.google.com/document/d/1d-yZlc213Dgj68Xh1UrIbo68d9E_6SV4H9qyhzNtL3I/edit?usp=sharing",
+        "id": "204313523683384_807135073401223"
+      },
+      {
+        "created_time": "2020-11-04T13:00:50+0000",
+        "message": "[SHECODES_SHARING]
+📌 🥰 Sự kiện đáng mong đợi tháng 11: PWAs & Magento: Next-Gen mCommerce experience
+
+► Link đăng ký: forms.gle/EmjGfMBZGqXarqrz5
+---------------
+[English caption below]
+Những năm gần đây, headless e-commerce nói chung và Progressive Web App (PWA) nói riêng luôn được nhận định là những xu hướng sẽ thay đổi hoàn toàn bộ mặt e-commerce, khi tận dụng hiệu quả thói quen sử dụng di động và rút ngắn khoảng cách trải nghiệm giữa website và native app. 
+
+Là agency chuyên về Open Source, Sutunam tổ chức chuỗi workshops mang góc nhìn về thị trường và công nghệ PWA. Hi vọng rằng workshop này sẽ giúp bổ sung định hướng công nghệ cho các lập trình viên và doanh nghiệp trong tương lai.
+
+► 2 chủ đề chính trong buổi workshop đầu tiên gồm:
+1. PWA là gì? Vì sao nên áp dụng PWA cho e-commerce và Magento nói riêng 
+Diễn giả: Simon Luaire - Chủ nhiệm dự án, Sutunam Vietnam
+
+2. Tương lai của PWA ở châu Á - Ví dụ về Alibaba 
+Diễn giả: Ngô Kiều Anh - Điều phối dư án, Sutunam Vietnam 
+
+► Đăng kí tham gia sự kiện tại: https://forms.gle/EmjGfMBZGqXarqrz5
+
+😎 Sự kiện hoàn toàn MIỄN PHÍ & chuyên ngành phù hợp với đối tượng là các lập trình viên, PM và những người làm trong lĩnh vực lập trình, thương mại điện tử. 
+👉👉 Do số lượng chỗ ngồi có hạn, bạn vui lòng đăng ký sớm! 
+Chúng tôi rất mong được gặp bạn tại sự kiện. ;) 
+___________________________
+In recent years, headless e-commerce in general & Progressive Web App (PWA) in specific have always been evaluated as future trends that completely change the e-commerce aspect, especially when people can see how it effectively utilizing the potential from large mobile users, as well as shortening the experience gap between website and native app.
+
+As an Open Source expert, Sutunam holds this series of workshops to provide an insight into PWA markets & technology aspects. Hope this information will help IT developers & businesses have more views when considering technology orientations.
+► Main topics:
+1. What is PWA? Why do we need PWA for Magento and e-commerce in general?
+Speaker: Simon Luaire - Project Manager, Sutunam Vietnam
+
+2. Future of PWA in Asia - Alibaba PWA case study
+Speaker: Ngo Kieu Anh - Production Coordinator, Sutunam Vietnam 
+
+► Registration link: https://forms.gle/EmjGfMBZGqXarqrz5
+
+Registration is for FREE and specialized for developers, PMs, and people who work in the Information Technology (IT) industry and E-commerce.
+
+Due to limited space, please register early!
+We look forward to seeing you at the event. ;) 
+---------------------
+PWAs & Magento: Next-Gen mCommerce experience
+► Time: 6:30 PM - 8:30 PM, Friday, 6th November, 2020
+► Venue: Toong Co-working space, Floor 2, 25T2 Building, Hoang Dao Thuy str., Cau Giay, Hanoi 
+►Link sự kiện: https://www.facebook.com/events/392468888455343
+#Sutunam #SutunamVietnam #ITviec #Toong  #PWA #HeadlesseCommerce #Headless #ITworkshop #OpenSource #techworkshop #eCommerce #mobile #mCommerce #SheCodesVietnam",
+        "id": "204313523683384_802556197192444"
+      },
+      {
+        "created_time": "2020-10-25T02:08:57+0000",
+        "message": "LỜI CẢM ƠN
+
+Thời gian mở đơn tuyển thành viên SheCodes Vietnam đã đến hồi kết. Cảm ơn các bạn đã luôn đồng hành cùng SheCodes trong thời gian qua. Vòng đơn kết thúc, SheCodes đã nhận được nhiều lá đơn tâm huyết và “chất lừ\" từ các bạn. Kết quả sẽ được thông tin đến các bạn sớm nhất. Các bạn hãy theo dõi fanpage để cập nhật thông tin cùng gia đình SheCodes nhé! 
+ 
+---------------------------------------------
+ĐỪNG BỎ LỠ NHỮNG CẬP NHẬT MỚI NHẤT VỀ NHỮNG CHƯƠNG TRÌNH THÚ VỊ SẮP TỚI CỦA SHECODES VIETNAM TẠI:
+➤ Fanpage: https://www.facebook.com/shecodesvietnam/
+➤ Website: https://shecodesvietnam.tech/
+➤ Group cộng đồng SheCodes Hackathon: https://www.facebook.com/groups/shecodes.hackathon/",
+        "id": "204313523683384_793901064724624"
+      },
+      {
+        "created_time": "2020-10-23T10:28:27+0000",
+        "message": "HƯỚNG VỀ KHÚC RUỘT MIỀN TRUNG!
+
+Website cuuhomientrung.info đang có 2,000 tình nguyện viên input thông tin, 100,000+ visit/ngày (total 190k traffic sau 2 ngày), nhận hàng nghìn cuộc gọi hotline và record vài trăm trường hợp khẩn cấp hàng ngày, đang cung cấp thông tin cứu hộ cho tỉnh đoàn Quảng Bình (và đang mở rộng ra nhiều địa phương khác) nên cần 500 anh chị tem tech vào giúp các vấn đề sau:
+- Xin cấp hạ tầng amazon/google/cloud ... để server ổn định
+- Cloudflare business plan 
+- Cần devops có kinh nghiệm và THỜI GIAN dể giúp team monitor hệ thống và giám sát development process
+- Cần dev biết python, django (ưu tiên) hoặc bất cứ ngôn ngữ nào join team để cải tiến tính năng
+- Cần các bạn có kinh nghiệm pm dự án opensource
+
+Team đang làm remote 100%, cũng đến từ nhiều múi giờ khác nhau nên mọi người có thời gian lúc nào thì đóng góp như vậy.
+Nếu bạn không join dự án thì hãy sử dụng dữ liệu của dự án tại https://cuuhomientrung.info/api/ để làm ứng dụng gì đó có ích cho những người bị nạn và người có khả năng cứu nạn & cứu trợ tìm đến nhau nhanh nhất.
+
+Hiện giờ đã có 2 team http://sosmap.net/ và https://vietnamhometown.com/ dùng dữ liệu của site.
+
+Mọi người xin liên lạc với founder Đặng Hải Lộc hoặc inbox anh Hune Le tại https://www.facebook.com/lethanhhung028
+
+P/S: link github https://github.com/Cuuhomientrung/cuuhomientrung
+
+repost từ anh Hung Le",
+        "id": "204313523683384_792552474859483"
+      },
+      {
+        "created_time": "2020-10-20T17:20:06+0000",
+        "story": "SheCodes Vietnam followed TED-Ed.",
+        "id": "204313523683384_790386238409440"
+      },
+      {
+        "created_time": "2020-10-20T14:03:30+0000",
+        "message": "SHECODES CHÚC MỪNG NGÀY PHỤ NỮ VIỆT NAM 20/10 ! 
+SheCodes chúc các bạn nữ có một ngày Phụ nữ thật hạnh phúc và ý nghĩa. Dù bạn có là ai, làm gì hay ở đâu, mong các bạn luôn luôn lạc quan, tự tin và bản lĩnh trên hành trình chinh phục những mục tiêu lớn của mình. Hãy nhớ rằng, chính các bạn là những bông hoa tươi đẹp nhất, rạng rỡ nhất <3 Nhớ yêu bản thân thật nhiều nhé !",
+        "id": "204313523683384_790247731756624"
+      },
+      {
+        "created_time": "2020-10-20T01:00:37+0000",
+        "message": "[Hỗ trợ truyền thông]
+
+THÔNG TIN TUYỂN SINH TRUNG TÂM TÀI NĂNG TRẺ FPT - FYT
+
+Trung tâm Tài năng trẻ FPT - FPT Young Talents (FYT) là tổ chức trực thuộc Tập đoàn FPT, được đích thân chủ tịch tập đoàn, ông Trương Gia Bình thành lập năm 1999. Trung tâm được gửi gắm nhiệm vụ tập hợp những sinh viên có thành tích xuất sắc và giúp họ có được cơ hội phát triển toàn diện, cộng hưởng sự ưu tú, góp phần làm hưng thịnh quốc gia. Trải qua 20 năm duy trì và phát triển, trung tâm đã chứng kiến các thế hệ thành viên tài năng trưởng thành từ mái nhà FYT, trở thành những cá nhân tiên phong của đất nước, trong đó có rất nhiều nhà sáng lập và quản lý, nhiều nhà khoa học và chuyên gia, có tầm ảnh hưởng cả trong nước và thế giới.
+
+Hàng năm, khi các tân sinh viên bắt đầu nhập học chính là đánh dấu một mùa tuyển sinh mới của trung tâm bắt đầu. Năm nay cũng không ngoại lệ, Trung tâm Tài năng trẻ FPT chính thức bước vào đợt tuyển sinh K21 từ ngày 1/10.
+
+Đăng ký ứng tuyển thành viên FYT tại: https://forms.gle/jZdUUnggPUbSJWkd8
+
+Hạn chót nhận đơn: 23:59 ngày 31/10/2020.
+
+Quyền lợi của thành viên FYT:
+
+🎁 Trở thành một phần của tập thể những sinh viên tài năng nhất và sinh hoạt định kỳ tại trụ sở chung trong 2 năm. Đó là cơ hội để học hỏi phẩm chất tốt đẹp từ những cá nhân ưu tú và xây dựng các mối quan hệ, sự kết nối vô cùng giá trị.
+
+🎁 Thường xuyên gặp gỡ, tham gia talkshow - seminar của những chuyên gia đầu ngành, những doanh nhân thành đạt, những nhân vật nổi tiếng có tầm ảnh hưởng.
+
+🎁 Có cơ hội được kết nối và trực tiếp nhận sự dìu dắt, cố vấn của những khóa FYT trước nay đã thành đạt.
+
+🎁 Được cung cấp kinh phí phí, cơ sở vật chất cho các hoạt động học tập, vui chơi, thể thao, teambuilding,...
+
+🎁 Nhận tiền học bổng hỗ trợ cá nhân định kỳ.
+
+Đối tượng tuyển sinh:
+
+🎈 Sinh viên đang theo học tại các trường đại học trên địa bàn Hà Nội.
+
+🎈 Có thành tích học tập, nghiên cứu xuất sắc hoặc có đóng góp đặc biệt trong các hoạt động xã hội.
+
+🎈 Có tinh thần cởi mở, năng động và cầu tiến.
+
+🎈 Có ước mơ và hoài bão phát triển bản thân thành những cá nhân tiên phong.
+
+🎈 Có tinh thần trách nhiệm với tổ chức và cộng đồng.
+
+🎈 Có thể dành thời gian tham gia sinh hoạt và tham gia các hoạt động của tổ chức một cách đầy đủ.
+
+Thời gian của các vòng tuyển sinh:
+
+📌 Vòng Hồ sơ: 1/10/2020 - 31/10/2020
+
+📌 Vòng Tư duy: 8/11/2020
+
+📌 Vòng Luận: 15/11/2020
+
+📌 Vòng Teamwork: 22/11/2020
+
+📌 Vòng Phỏng vấn: 29/11/2020
+
+Tìm hiểu thêm về FYT tại: http://facebook.com/FYT.vn
+
+Mọi thắc mắc xin gửi đến fanpage hoặc email: fyt.fpt@gmail.com
+_____________________________________________________________",
+        "id": "204313523683384_789564291824968"
+      },
+      {
+        "created_time": "2020-10-11T13:46:51+0000",
+        "message": "🚀 MỞ ĐƠN TUYỂN THÀNH VIÊN ĐẠI GIA ĐÌNH SHECODES VIETNAM 🚀 
+
+\"Take the Lead - Break the Ground\" -  trở thành những người tiên phong kiến tạo và cùng chinh phục những hành trình mới cùng SheCodes Vietnam 🇻🇳
+----------------------------------------------------
+Đăng ký ngay tại: https://forms.gle/hKeUjCij2WYWxTCX7  
+Thông tin chi tiết tại: 
+- Xem trên điện thoại : https://www.facebook.com/notes/shecodes-vietnam/shecodes-vietnam-recruitment-2020/1496209043914953/ 
+- Xem trên Laptop: https://docs.google.com/document/d/1lt6b-6IR3ONXwmOz_Ot6_7GUi-29lshy8cc3eUaJOBE/edit?usp=sharing 
+----------------------------------------------------
+❓Làm SheCodes là phải biết lập trình? => ❌Không hẳn ! Có nhiều vị trí để bạn thể hiện mình lắm đấy 😉 
+❓Là nam nhân thì tham gia SheCodes được không? => ✔️ Tất nhiên là được! Mời bạn vào team SheCodes nha ❤
+❓Làm SheCodes là 🧠 phải \"to\"? => ❌Chưa chắc ! Tinh thần của bạn mới chính là yếu tố quan trọng. 
+
+Văn hoá coi trọng tính sáng tạo, ý kiến và tinh thần “dám  nghĩ dám làm - sẵn sàng nhận việc khó ” là một trong những lí do chính để SheCodes Vietnam có thể đi xa tới hôm nay! 
+
+Trên chặng đường hoạt động hướng đến mục tiêu thu hẹp khoảng cách giới trong ngành Công nghệ và tạo ra nhiều cơ hội để các \"nữ nhi\" chinh phục hành trình theo đuổi đam mê của mình, đại gia đình SheCodes Vietnam đã được đồng hành cùng nhiều thế hệ thành viên từ Bắc đến Nam cùng chung tay thực hiện giấc mơ lớn này. Mỗi thành viên đều là một mảnh ghép quan trọng và độc nhất vô nhị, nỗ lực tạo nên 1 bức tranh chung rạng rỡ và đa dạng trong ngành CNTT tại Việt Nam.
+
+Năm 2021 dự định sẽ là một năm vô cùng bận rộn và hào hứng của SheCodes Vietnam, với những dự án hoàn toàn mới, quy mô hơn và nhiều những mục tiêu lớn hơn cần chinh phục. Vì thế, SHECODES CẦN BẠN!
+
+Vậy bạn có sẵn sàng về chung một nhà với SheCodes và trở thành một mảnh ghép như thế không? Click vào link để đăng ký ngay nhé! 
+-----------
+Link đăng ký: https://forms.gle/hKeUjCij2WYWxTCX7   
+Thông tin chi tiết: 
+Thời gian: 20h ngày 11/10 - 24h ngày 24/10/2020
+----------------------------------------------
+Mọi thắc mắc xin vui lòng liên hệ qua fanpage SheCodes Vietnam: https://www.facebook.com/shecodesvietnam  
+Thông tin chi tiết: 
+- Xem trên điện thoại : https://www.facebook.com/notes/shecodes-vietnam/shecodes-vietnam-recruitment-2020/1496209043914953/ 
+- Xem trên laptop: https://docs.google.com/document/d/1lt6b-6IR3ONXwmOz_Ot6_7GUi-29lshy8cc3eUaJOBE/edit?usp=sharing
+Mọi thắc mắc xin vui lòng liên hệ qua fanpage SheCodes Vietnam: https://www.facebook.com/shecodesvietnam",
+        "id": "204313523683384_783076099140454"
+      },
+      {
+        "created_time": "2020-10-11T06:48:03+0000",
+        "message": "[Hackathon Opportunity]
+MINDX GRAND HACKATHON - TRẢI NGHIỆM “ĐÁNG THỬ” DÀNH CHO PHÁI NỮ CHINH PHỤC LẬP TRÌNH 
+Lập trình không dành cho phái nữ ư? Có thể, nhưng đó là ngày xưa thôi, bởi hiện tại dù là phụ nữ thì bạn vẫn hoàn toàn có khả năng theo đuổi những lĩnh vực khó nhằn này. 
+MindX Grand Hackathon là sân chơi không phân biệt nam nữ. Có cơ hội, ngại gì mà không thử và chứng tỏ “những gì nam giới chinh phục được thì phụ nữ cũng có thể chinh phục được”. 
+👉 Link đăng ký: http://bit.ly/MindX-Grand-Hackathon-18
+Đối tượng tham gia:
+- Tất cả học viên trong và ngoài MindX từ 18 tuổi trở lên 
+
+️🎯 Thể lệ cuộc thi:
+- Thí sinh tham gia Hackathon trong vòng 48 tiếng (từ 20h ngày 16/10 tại MindX Hà Nội, 30/10 tại MindX HCM) (MindX sẽ sắp xếp phòng ngủ và chuẩn bị đồ ăn vặt, ăn đêm cho các thí sinh nhé ^^)
+- Được phép copy code max 30% của source code (copy dưới 30% phải ghi rõ nguồn)
+- Nếu bị phát hiện copy nhiều hơn 30% bởi BGK hoặc các team khác sẽ bị hủy kết quả
+
+👉Thông tin chi tiết về cuộc thi bạn xem thêm tại đây nhé: https://hackathon.mindx.edu.vn/
+👉 Hình thức dự thi: Tham gia cá nhân hoặc theo nhóm (tối đa 5 thành viên). Nếu bạn chưa có team thì cũng đừng lo, BTC sẽ hỗ trợ bạn ghép đủ team để chiến nhé :3 
+
+️🎯Địa điểm dự kiến:
+- Tại Hà Nội: Tầng 6, tòa C, 22 Thành Công, Hà Nội
+- Tại Hồ Chí Minh: 253 Điện Biên Phủ, quận 3, HCM
+Thời hạn đăng ký: Từ nay đến hết 14/10/2020
+👉 Đăng ký tham gia cuộc thi tại: http://bit.ly/MindX-Grand-Hackathon-18
+Hotline cuộc thi: 0962 837 974",
+        "id": "204313523683384_782829792498418"
+      },
+      {
+        "created_time": "2020-10-09T13:39:01+0000",
+        "message": "DỰ ÁN MỚI - VÙNG ĐẤT MỚI 2021
+
+Một trong những hoạt động chủ đạo trong năm 2020 là sự cập nhật những xu thế mới, các chương trình được tổ chức thành công với hàng trăm các bạn trẻ năng động tham gia, những chia sẻ thú vị trong ngành nghề công nghệ từ các diễn giả, ngoài ra giúp các bạn có cơ hội giao lưu, hiểu sâu về kinh nghiệm làm việc trong thực tế, các lớp học công nghệ được mở ra nhằm khuyến khích các bạn trẻ bắt kịp các xu thế hiện nay.
+
+Cùng với đó là sự xuất hiện ngày càng nhiều của công nghệ xung quanh chúng ta, để nhận diện những vấn đề nổi cộm đang dẫn dắt xu thế, tạo nền tảng để các ngành nghề cùng phát triển bền vững thông qua công nghệ. Chính vì thế, SheCodes Vietnam mong muốn luôn cập nhật các xu thế mới về lĩnh vực công nghệ, đưa đến các bạn các kinh nghiệm thực tiễn, sân chơi công nghệ thú vị để phần nào hỗ trợ các bạn trên con đường theo đuổi công nghệ.
+
+Đây là “cuộc chơi” của chính các bạn yêu thích công nghệ, cho dù bạn bao nhiêu tuổi thì cùng có thể bắt tay vào tìm hiểu công nghệ là gì và cách ứng dụng nó vào cuộc sống, hướng tới mục tiêu tạo lập một không gian đạt hiệu quả cao. Nhằm bao quát các nhu cầu của các bạn yêu thích công nghệ và quá trình triển khai, giới thiệu sự kiện công nghệ trong năm, SheCodes Vietnam rất mong được nhận các chia sẻ của các bạn về các lĩnh vực công nghệ cần hỗ trợ và các lớp học, kỹ năng mà các bạn cần thiết và cùng mong chờ những sự kiện hấp dẫn của SheCodes sắp tới nhé. Đừng quên comment chia sẻ các mong muốn của các bạn dưới đây cùng SheCodes!
+---------------------------------------------
+ĐỪNG BỎ LỠ NHỮNG CẬP NHẬT MỚI NHẤT VỀ NHỮNG CHƯƠNG TRÌNH THÚ VỊ SẮP TỚI CỦA SHECODES VIETNAM TẠI:
+➤ Fanpage: https://www.facebook.com/shecodesvietnam/
+➤ Website: https://shecodesvietnam.tech/
+➤ Group cộng đồng SheCodes Hackathon: https://www.facebook.com/groups/shecodes.hackathon/",
+        "id": "204313523683384_781599659288098"
+      },
+      {
+        "created_time": "2020-10-08T13:26:39+0000",
+        "message": "SHECODES REWIND - NHÌN LẠI HÀNH TRÌNH 3 NĂM 
+
+Được thành lập vào năm 2018, SheCodes Vietnam đã tổ chức nhiều hoạt động ở cả 2 miền Nam - Bắc với sứ mệnh thúc đẩy nữ giới tham gia vào lĩnh vực công nghệ thông tin và đã đạt được một số thành tựu nhất định. Hãy cùng SheCodes điểm lại những dấu ấn lớn trong năm vừa qua, và chờ đón những dự án bùng nổ trong thời gian tới nhé!
+👉 Tìm hiểu thêm chúng mình tại: https://shecodesvietnam.tech",
+        "id": "204313523683384_780876322693765"
+      },
+      {
+        "created_time": "2020-09-13T10:52:45+0000",
+        "story": "SheCodes Vietnam followed Vietnam Online Career Fair - VOCF.",
+        "id": "204313523683384_761886711259393"
+      },
+      {
+        "created_time": "2020-09-01T08:54:30+0000",
+        "message": "[SUMMIT] ĐỀ XUẤT HỢP TÁC
+
+Đầu tiên, Summit rất vui khi được đồng hành cùng Shecodes Hanoi trong sự kiện “Shecodes Hackathon 2020”. 
+
+Thành lập năm 2010, Summit là 1 trong những tổ chức giáo dục hàng đầu Việt Nam hiện nay với kết quả đào tạo cao nhất cả nước và mạng lưới 7 chi nhánh trên toàn quốc. Summit là lựa chọn của hàng nghìn HSSV để luyện thi SAT, ACT, TOEFL, IELTS, tiếng Anh học thuật, Toán Tiếng Anh và tư vấn tìm học bổng du học các trường TOP ở Mỹ & Canada!
+
+Năm 2020 là năm kỷ niệm 10 năm thành lập Summit và chúng tôi dự kiến tăng cường thêm hợp tác với các tổ chức đối tác, các câu lạc bộ học sinh sinh viên, các dự án phi lợi nhuận, đặc biệt tới các bạn học sinh.
+
+Các dự án Summit tài trợ/ hợp tác rất đa dạng: từ môi trường, giáo dục, y tế cộng đồng, nâng cao năng lực cho giới trẻ, phụ nữ và các đối tượng yếm thế… đến các lĩnh vực như nghệ thuật, thể thao, văn hóa… Các hỗ trợ bao gồm: tài trợ tiền mặt, hỗ trợ truyền thông, hỗ trợ địa điểm tổ chức hội thảo hội nghị, các tài trợ hiện vật và các hỗ trợ đồng hành khác.
+Nếu Quý đối tác có các dự án, hoạt động ý nghĩa trong năm 2020, vui lòng liên hệ với chúng  tôi qua email: community@summit.edu.vn.
+Summit rất hân hạnh được đồng hành cùng Quý đối tác vì một cộng đồng Việt Nam tốt đẹp hơn. 
+------------------------------------------------------------------------------------------------
+🌍 Tổ chức giáo dục uy tín 10 năm kinh nghiệm!
+🌍 7 cơ sở tại Hà Nội, Hồ Chí Minh & Đà Nẵng
+⭐100% giáo viên nước ngoài có chứng chỉ giảng dạy quốc tế CELTA/TESOL và kinh nghiệm giảng dạy cho sinh viên quốc tế và Việt Nam hoặc/và kinh nghiệm khảo thí.
+⭐100% giáo viên Việt Nam có trình độ IELTS 8.0-8.5 hoặc TOEFL 106-118, có bằng Cử nhân/ Thạc sĩ Sư phạm tiếng Anh trong nước hoặc/và được học bổng du học bậc Cử nhân/ Thạc sĩ ở nước ngoài.
+--------------------------------------------------------------------------------------------------
+Summit là lựa chọn của hàng nghìn HSSV để luyện thi SAT, ACT, TOEFL, IELTS, tiếng Anh học thuật và tư vấn tìm học bổng du học các trường TOP ở Mỹ & Canada!
+🌐Website: https://summit.edu.vn/
+☑ Inbox: m.me/summit.edu (HN) | m.me/summit.hcmc (HCM) | m.me/summit.dn (Đà Nẵng)
+📲 Hotline: 0901 702 889 (Láng Hạ) | 093 451 6464 (Phố Huế) | 0963 617 945 (Cầu Giấy) | 0936 846 161 (Long Biên) | 0902 152 526 - 0968 975 848 (Đà Nẵng) | 0904 655 300 (HCM)
+✅Summit HN-1: Tầng 2-3, 101 Láng Hạ, Đống Đa, HN
+✅Summit HN-2: Tầng 2, 352 Phố Huế, Hai Bà Trưng, HN
+✅Summit HN-3: Tầng 2, tòa nhà Discovery Complex, 302 Cầu Giấy, HN
+✅Summit HN-4: Tầng 5, 564 Nguyễn Văn Cừ, Long Biên, HN
+✅Summit HCM-1: Lầu 2, 215 Nam Kỳ Khởi Nghĩa, P7, Q3, TP. HCM
+✅Summit HCM-2: Lầu 2, 198 Nguyễn Thị Minh Khai, P6, Q3, TP. HCM
+✅Summit Đà Nẵng: 150 – 156 Nguyễn Văn Linh, P. Vĩnh Trung, Q. Thanh Khê, Đà Nẵng",
+        "id": "204313523683384_752842362163828"
+      },
+      {
+        "created_time": "2020-08-31T13:19:37+0000",
+        "message": "[KHẨN CẤP] SHECODES VIETNAM RẤT CẦN SỰ HỖ TRỢ CỦA TOÀN THỂ CHỊ EM SHECODES NHÀ MÌNH
+
+Câu chuyện là, gần đây, SheCodes Vietnam đăng ký tham dự cuộc thi Thanh niên kiến tạo 2020 do Cơ quan Viện trợ Ireland (Irish Aid) & Trung tâm Nghiên cứu Phát triển Bền vững (CSDS) tổ chức. Do vậy, chúng mình rất hi vọng và cảm ơn các bạn dành chút thời gian (30s) bình chọn cho tổ chức có cơ hội đi xa hơn nữa.
+
+👉Mã số bình chọn: GT23, SheCodes Vietnam
+
+✍️Link bình chọn: https://bitly.com.vn/gNPQe
+
+🏃‍♂️DEADLINE: Thứ 2, 24h00, 31/08/2020
+
+Cảm ơn các bạn đã, đang và luôn ủng hộ chúng mình nhaa😊
+SheCodes sẽ không ngừng nỗ lực hoàn thiện và phát triển 💪",
+        "id": "204313523683384_752164258898305"
+      },
+      {
+        "created_time": "2020-08-30T13:00:38+0000",
+        "message": "Nhằm xây dựng các chương trình chất lượng cao hỗ trợ phái nữ phát triển trong lĩnh vực công nghệ, SheCodes hi vọng được lắng nghe những ý kiến đóng góp từ bạn! 
+
+💕 Nếu bạn có thể dành ra 30 phút để chia sẻ 1-1 cùng SheCodes những mong muốn của mình cho các hoạt động sắp tới, hay chỉ đơn giản là bạn cần một người chị em lắng nghe tâm sự của bạn khi đặt chân vào con đường Công nghệ thông tin thì cũng đừng ngần ngại đăng ký ngay bên dưới nhé 💁  ! 
+
+👧 Tham gia buổi chia sẻ 1-1 cùng SheCodes, bạn sẽ nhận được các bộ sách về lập trình và quản lí sản phẩm cực kì bổ ích! Cùng nhấn vào form để xem các bộ sách là gì nào 😍
+
+SheCodes cảm ơn các chị em!! 
+https://forms.gle/z1Q1iimQFjRutpgT8",
+        "id": "204313523683384_750568589057872"
+      }
+    ],
+    "paging": {
+      "cursors": {
+        "before": "Q2c4U1pXNTBYM0YxWlhKNVgzTjBiM0o1WDJsa0R5TXlNRFF6TVRNMU1qTTJPRE16T0RRN09EVTBOVE00T0RreE9UazBNVGMwT3pBN05BOE1ZAWEJwWDNOMGIzSjVYMmxrRHg4eU1EUXpNVE0xTWpNMk9ETXpPRFJmT0RVME5UTTRPRGt4T1RrME1UYzBEd1IwYVcxbEJtQUppUU1C",
+        "after": "Q2c4U1pXNTBYM0YxWlhKNVgzTjBiM0o1WDJsa0R5SXlNRFF6TVRNMU1qTTJPRE16T0RRN056VXdOVFk0TlRnNU1EVTNPRGN5T3pzMER3eGhjR2xmYzNSdmNubGZAhV1FQSHpJd05ETXhNelV5TXpZANE16TTRORjgzTlRBMU5qZAzFPRGt3TlRjNE56SVBCSFJwYldVR1gwdWk5ZA0U9"
+      },
+      "next": "https://graph.facebook.com/v9.0/204313523683384/published_posts?access_token=EAAZAX7QniJR4BAGWewXQshp4QB0UVyJLW2UbwiIL6srmUhChazpCoOlFSDFS7oZBc1QC9wAQzdPu2IKowlLbfO7PthDVeOFJNguPycNbYQmKnnreUzDCZBasOXGDVUm7YartLSF2zKH9uKdxUNhogKs0cdwdDHfhJAlqxWiFjVwAv9FHrQwajglM3vsT7OAMD91zaChLQZDZD&pretty=0&limit=25&after=Q2c4U1pXNTBYM0YxWlhKNVgzTjBiM0o1WDJsa0R5SXlNRFF6TVRNMU1qTTJPRE16T0RRN056VXdOVFk0TlRnNU1EVTNPRGN5T3pzMER3eGhjR2xmYzNSdmNubGZAhV1FQSHpJd05ETXhNelV5TXpZANE16TTRORjgzTlRBMU5qZAzFPRGt3TlRjNE56SVBCSFJwYldVR1gwdWk5ZA0U9"
+    }
+  }
+}
