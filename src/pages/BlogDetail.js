@@ -2,6 +2,7 @@ import React from "react";
 import parse from "html-react-parser";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
+import Disqus from "disqus-react";
 
 import { Box } from "./../components/Box";
 import { NormalText } from "./../components/Text";
@@ -51,13 +52,13 @@ function BlogDetail(props) {
         textAlign="justify"
       >
         <Carousel>
-          {detail.images.map((image) => (
-            <div>
+          {detail.images.map((image, index) => (
+            <div key={index}>
               <img src={image} alt="Shopee Code League" />
             </div>
           ))}
         </Carousel>
-        {detail.content.split(/\r*\n\s*/g).map(function paragraph(p) {
+        {detail.content.split(/\r*\n\s*/g).map(function paragraph(p, index) {
           return (
             <NormalText
               as="p"
@@ -65,6 +66,7 @@ function BlogDetail(props) {
               lineHeight="1.7"
               padding="0 1%"
               fontSize="2rem"
+              key={index}
             >
               {parse(
                 pipe(p, [
@@ -81,9 +83,16 @@ function BlogDetail(props) {
             </NormalText>
           );
         })}
-        {/* TODO: If user has logged in, display like, share button */}
-        {/* TODO: If user has logged in, display comment section*/}
-        <div id="disqus_thread" style={{ paddingTop: "2rem" }}></div>
+        <div style={{ paddingTop: "2rem" }}>
+          <Disqus.DiscussionEmbed
+            shortname="https-shecodesvietnam-com"
+            config={{
+              url: "https://shecodesvietnam.com",
+              identifier: String(detail.id),
+              title: detail.title,
+            }}
+          />
+        </div>
       </Box>
     </Box>
   );
