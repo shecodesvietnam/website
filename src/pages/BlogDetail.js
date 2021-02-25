@@ -83,6 +83,7 @@ function BlogDetail(props) {
         })}
         {/* TODO: If user has logged in, display like, share button */}
         {/* TODO: If user has logged in, display comment section*/}
+        <div id="disqus_thread" style={{ paddingTop: "2rem" }}></div>
       </Box>
     </Box>
   );
