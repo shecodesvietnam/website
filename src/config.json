@@ -1,3 +1,4 @@
 {
-  "githubRawAssets": "https://raw.githubusercontent.com/shecodesvietnam/assets/master"
+  "githubRawAssets": "https://raw.githubusercontent.com/shecodesvietnam/assets/master",
+  "apiUrl": "http://206.189.155.4:3000/api"
 }
