@@ -82,7 +82,7 @@ function BlogDetail() {
               </NormalText>
             );
           })}
-        <div style={{ paddingTop: "2rem" }}>
+        {/* <div style={{ paddingTop: "2rem" }}>
           <Disqus.DiscussionEmbed
             shortname={detail && `shecodesvietnam`}
             config={
@@ -93,7 +93,7 @@ function BlogDetail() {
               }
             }
           />
-        </div>
+        </div> */}
       </Box>
     </Box>
   );
