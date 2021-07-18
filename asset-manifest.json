@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.0eaa4157.chunk.css",
-    "main.js": "/static/js/main.078470f1.chunk.js",
-    "main.js.map": "/static/js/main.078470f1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fcb4bf98.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fcb4bf98.js.map",
-    "static/css/2.fb346933.chunk.css": "/static/css/2.fb346933.chunk.css",
-    "static/js/2.f4b3bc71.chunk.js": "/static/js/2.f4b3bc71.chunk.js",
-    "static/js/2.f4b3bc71.chunk.js.map": "/static/js/2.f4b3bc71.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8a4e5e07036d39e29f058d1fbc3b7c7a.js": "/precache-manifest.8a4e5e07036d39e29f058d1fbc3b7c7a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.fb346933.chunk.css.map": "/static/css/2.fb346933.chunk.css.map",
-    "static/css/main.0eaa4157.chunk.css.map": "/static/css/main.0eaa4157.chunk.css.map",
-    "static/js/2.f4b3bc71.chunk.js.LICENSE.txt": "/static/js/2.f4b3bc71.chunk.js.LICENSE.txt",
-    "static/media/icon-font.css": "/static/media/linea-basic-10.e6763f00.ttf"
+    "main.css": "/website-2020/static/css/main.470e1296.chunk.css",
+    "main.js": "/website-2020/static/js/main.6fabeddb.chunk.js",
+    "main.js.map": "/website-2020/static/js/main.6fabeddb.chunk.js.map",
+    "runtime-main.js": "/website-2020/static/js/runtime-main.4c7cdbe4.js",
+    "runtime-main.js.map": "/website-2020/static/js/runtime-main.4c7cdbe4.js.map",
+    "static/css/2.fb346933.chunk.css": "/website-2020/static/css/2.fb346933.chunk.css",
+    "static/js/2.bcda450d.chunk.js": "/website-2020/static/js/2.bcda450d.chunk.js",
+    "static/js/2.bcda450d.chunk.js.map": "/website-2020/static/js/2.bcda450d.chunk.js.map",
+    "index.html": "/website-2020/index.html",
+    "precache-manifest.4c8896ae138555af73faec991f22dcf4.js": "/website-2020/precache-manifest.4c8896ae138555af73faec991f22dcf4.js",
+    "service-worker.js": "/website-2020/service-worker.js",
+    "static/css/2.fb346933.chunk.css.map": "/website-2020/static/css/2.fb346933.chunk.css.map",
+    "static/css/main.470e1296.chunk.css.map": "/website-2020/static/css/main.470e1296.chunk.css.map",
+    "static/js/2.bcda450d.chunk.js.LICENSE.txt": "/website-2020/static/js/2.bcda450d.chunk.js.LICENSE.txt",
+    "static/media/icon-font.css": "/website-2020/static/media/linea-basic-10.e6763f00.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.fcb4bf98.js",
+    "static/js/runtime-main.4c7cdbe4.js",
     "static/css/2.fb346933.chunk.css",
-    "static/js/2.f4b3bc71.chunk.js",
-    "static/css/main.0eaa4157.chunk.css",
-    "static/js/main.078470f1.chunk.js"
+    "static/js/2.bcda450d.chunk.js",
+    "static/css/main.470e1296.chunk.css",
+    "static/js/main.6fabeddb.chunk.js"
   ]
 }
